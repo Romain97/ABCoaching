@@ -57,7 +57,6 @@ Quo cognito.</p>
         <div class="coaching_photo col-lg-offset-1 col-lg-2 col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-10 col-sm-offset-1 col-xs-offset-1 col-xs-10 col-xs-offset-1"> <a href="./mes_prestations.php"> <img src="images/coaching_test1.jpg" class="img-responsive"> </a> Coaching</div>
         <div class="atelier_photo col-lg-offset-1 col-lg-2 col-lg-offset-2 col-md-offset-1 col-md-2 col-md-offset-2 col-sm-offset-1 col-sm-10 col-sm-offset-1 col-xs-offset-1 col-xs-10 col-xs-offset-1"> <a href="./mes_prestations.php"> <img src="images/atelier_test1.jpg" class="img-responsive"> </a> Ateliers</div>
       </div>
-      </div>
     </div>
 
     <div class="section4_blog">

@@ -6,16 +6,8 @@
 		<script type ="text/javascript" src="./js/boostrap.min.js"></script>
     <script src="./js/jquery.js"></script>
     <link type="text/css" rel="stylesheet" href="./css/bootstrap.min.css">
-		<link type="text/css" rel="stylesheet" href="./css/style_tom.css">
-		<title>ABCoaching</title>
-
-    <script>
-      $(document).ready(function(){
-        $("#Apprendre").animate({left: '100px'}); 
-        $("#Accompagner").animate({left: '250px'});
-        $("#Developper").animate({left: '400px'});   
-      });
-    </script>
+		<link type="text/css" rel="stylesheet" href="./css/style_contact.css">
+		<title>Contact</title>
 
 	</head>
 	
@@ -24,47 +16,52 @@
     <?php
       include("header.php")
     ?>
-  
-    <div class="section1_texte">
-      <div id="Apprendre">Apprendre</div>
-      <div id="Accompagner">Accompagner</div>
-      <div id="Developper">Développer</div>
-    </div>
 
-    <div class="section1_photo"></div>
+    <div class="row_contact">
 
-
-    <div class="section2_presentation">
-        <div class="row">
-          <div class="col-lg-offset-1 col-lg-5 col-md-offset-1 col-md-5 col-sm-offset-2 col-sm-8 col-sm-offset-2 col-xs-offset-2 col-xs-8 col-xs-offset-2">
-            <img src="images/annie_bearez_1.png" class="img-responsive">
+      <!--Bloc contact-->
+      <div class="contact col-lg-offset-1 col-lg-5 col-md-offset-1 col-md-5 col-sm-12 col-xs-12">
+        <h1>CONTACT</h1>
+        <p>41 Rue Robert Poisson<br>28130 SAINT PIAT<br>PARIS : Place d'Italie, Nationale<br>06 87 68 13 99<br>annie.bearez@wanadoo.fr</p>
+        <!--Formulaire-->
+        <form class="formulaire col-lg-offset-1 col-lg-5 col-md-offset-1 col-md-5 col-sm-12 col-xs-12">
+          <h1>Formulaire de contact :</h1>
+          <div class="form-group">
+            <label for="Input_nom"></label>
+            <input type="text" class="form-control" id="Input_nom" placeholder="Nom, prénom">
           </div>
-          <div class="col-lg-offset-1 col-lg-4 col-lg-offset-1 col-md-offset-1 col-md-4 col-md-offset-1 col-sm-12 col-xs-12">
-            <h1>Annie Bearez</h1>
-            <p>Coach certifiée, psychothérapeute ...<br/>Je vous accompagne ...<br/>Ma spécialité : les jeunes ...</p>
+          <div class="form-group">
+            <label for="Input_email"></label>
+            <input type="email" class="form-control" id="Input_email" placeholder="Email">
           </div>
-        </div>
+          <fieldset class="form-group">
+            <label for="Input_telephone"></label>
+            <input type="text" class="form-control" id="Input_telephone" placeholder="Téléphone">
+          </fieldset>
+          <fieldset class="form-group">
+            <label for="Input_sujet"></label>
+            <input type="text" class="form-control" id="Input_sujet" placeholder="Sujet">
+          </fieldset>
+          <fieldset class="form-group">
+            <label for="Input_texte"></label>
+            <textarea class="form-control" id="Input_texte" rows="3" placeholder="Mon message"></textarea>
+          </fieldset>
+          <button type="submit" class="btn btn-primary">Envoyer</button>
+        </form>
+      </div>
+
+      <!--Carte de localisation-->
+      <div class="maps col-lg-4 col-lg-offset-1 col-md-offset-1 col-md-offset-1 col-md-4 col-md-offset-1 col-hidden-sm col- hidden-xs">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14943.80878486592!2d1.5723702804991457!3d48.538652430118596!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e41064cb21fb51%3A0x2e86372cadd676!2s41+Rue+Robert+Poisson%2C+28130+Saint-Piat!5e0!3m2!1sfr!2sfr!4v1459952529933" width="500" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+        <p></p>
+        <a href="http://www.voyages-sncf.com/billet-train/horaires">Pour consulter les horaires de train</a>
+      </div>
+
     </div>
 
-    <div class="section3_activites">
-      <div class="row">
-        <div class="formation_photo col-lg-offset-2 col-lg-2 col-md-offset-2 col-md-2 col-sm-offset-1 col-sm-10 col-sm-offset-1 col-xs-offset-1 col-xs-10 col-xs-offset-1"><img src="images/formation_test1.jpg" class="img-responsive">Formation</div>
-        <div class="coaching_photo col-lg-offset-1 col-lg-2 col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-10 col-sm-offset-1 col-xs-offset-1 col-xs-10 col-xs-offset-1"><img src="images/coaching_test1.jpg" class="img-responsive">Coaching</div>
-        <div class="atelier_photo col-lg-offset-1 col-lg-2 col-lg-offset-2 col-md-offset-1 col-md-2 col-md-offset-2 col-sm-offset-1 col-sm-10 col-sm-offset-1 col-xs-offset-1 col-xs-10 col-xs-offset-1"><img src="images/atelier_test1.jpg" class="img-responsive">Ateliers</div>
-      </div>
-      </div>
-    </div>
-
-    <div class="section4_blog">
-      <div class="row">
-        <div class="citation col-lg-offset-1 col-lg-3 col-md-offset-1 col-md-3 col-sm-offset-1 col-sm-10 col-sm-offset-1 col-xs-offset-1 col-xs-10 col-xs-offset-1">"Te justifier ne t'apportera jamais un chameau de plus."</div>
-        <div class="blog col-lg-offset-1 col-lg-6 col-lg-offset-1 col-md-offset-1 col-md-6 col-md-offset-1 col-sm-offset-1 col-sm-10 col-sm-offset-1 col-xs-offset-1 col-xs-10 col-xs-offset-1">La communication non violente : ...<br/>Petite histoire : ...</div>
-      </div>
-    </div>
-
-  <?php
-    include("footer.php")
-  ?>
+    <?php
+      include("footer.php")
+    ?>
 
 	</body>
 

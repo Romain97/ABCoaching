@@ -1,0 +1,24 @@
+body {
+	background-color: #c7c2c2;
+}
+
+.row_contact {
+	margin-top: 70px;
+}
+
+.row_contact .formulaire{
+	margin-bottom: 50px;
+}
+
+.row_contact .formulaire h1{
+	margin-left: -60px;
+}
+
+.row_contact .formulaire .form-group{
+	margin-left:-60px;
+	width:300%;
+}
+
+.row_contact .maps{
+	padding-top: 150px;
+}
