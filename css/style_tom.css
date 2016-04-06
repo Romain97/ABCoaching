@@ -1,27 +1,33 @@
+body {
+	background-color: #c7c2c2;
+}
+
 /* Page principale - Section1 */
 .section1_texte{
 	position:absolute;
+	color: #19B5FE;
+	font-size: 250%;
 }
 
 .section1_texte > div{
 	position:absolute;
 }
 
+.section1_texte #Apprendre{
+	margin-top: 100px;
+}
+
 .section1_texte #Accompagner{
-	margin-top: 70px;
+	margin-top: 200px;
 }
 
 .section1_texte #Developper{
-	margin-top: 170px;
-}
-
-.section1_texte #Apprendre{
-	margin-top: 270px;
+	margin-top: 300px;
 }
 
 .section1_photo{
 	width:100%;
-	height:600px;
+	height:50em;
 	color:#19B5FE;
 	background: url("../images/photo1_ok.jpg") no-repeat center center fixed;
 	-webkit-background-size:cover;
@@ -33,15 +39,14 @@
 /* Page principale - Section2 */
 
 .section2_presentation{
-	margin-top: 20px;
-	background-color: #c7c2c2;
+	margin-top: 35px;
 	color:#1E8BC3;
 }
 
 /* Page principale - Section3 */
 
 .section3_activites{
-	margin-top: 20px;
+	margin-top: 35px;
 }
 
 @media screen and (max-width: 640px) {
@@ -54,3 +59,14 @@
 }
 
 
+/* Page principale - Section4 */
+
+.section4_blog {
+	margin-top: 35px;
+	padding: 10px;
+}
+
+.section4_blog .row .citation{
+	border-style: solid;
+	border-width: 3px;
+}
