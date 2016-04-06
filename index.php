@@ -37,7 +37,7 @@
     <div class="section2_presentation">
         <div class="row">
           <div class="col-lg-offset-1 col-lg-5 col-md-offset-1 col-md-5 col-sm-offset-2 col-sm-8 col-sm-offset-2 col-xs-offset-2 col-xs-8 col-xs-offset-2">
-            <img src="images/annie_bearez_1.png" class="img-responsive">
+            <img src="images/annie_main.png" class="img-responsive">
           </div>
           <div class="col-lg-offset-1 col-lg-4 col-lg-offset-1 col-md-offset-1 col-md-4 col-md-offset-1 col-sm-12 col-xs-12">
             <h1>Annie Bearez</h1>
