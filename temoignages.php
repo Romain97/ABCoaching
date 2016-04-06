@@ -6,16 +6,8 @@
 		<script type ="text/javascript" src="./js/boostrap.min.js"></script>
     <script src="./js/jquery.js"></script>
     <link type="text/css" rel="stylesheet" href="./css/bootstrap.min.css">
-		<link type="text/css" rel="stylesheet" href="./css/style_tom.css">
-		<title>ABCoaching</title>
-
-    <script>
-      $(document).ready(function(){
-        $("#Apprendre").animate({left: '100px'}); 
-        $("#Accompagner").animate({left: '250px'});
-        $("#Developper").animate({left: '400px'});   
-      });
-    </script>
+		<link type="text/css" rel="stylesheet" href="./css/style_temoignages.css">
+		<title>Témoignages</title>
 
 	</head>
 	
@@ -24,43 +16,45 @@
     <?php
       include("header.php")
     ?>
-  
-    <div class="section1_texte">
-      <div id="Apprendre">Apprendre</div>
-      <div id="Accompagner">Accompagner</div>
-      <div id="Developper">Développer</div>
-    </div>
 
-    <div class="section1_photo"></div>
+    <div class="temoignages_section1_photo"></div>
 
 
-    <div class="section2_presentation">
-        <div class="row">
-          <div class="col-lg-offset-1 col-lg-5 col-md-offset-1 col-md-5 col-sm-offset-2 col-sm-8 col-sm-offset-2 col-xs-offset-2 col-xs-8 col-xs-offset-2">
-            <img src="images/annie_bearez_1.png" class="img-responsive">
+    <div class="temoignages_section2">
+      <div class="row">
+        <!--Formulaire-->
+        <form class="formulaire col-lg-offset-1 col-lg-4 col-md-offset-1 col-md-5 col-sm-12 col-xs-12">
+          <h1>Formulaire de contact :</h1>
+          <div class="form-group">
+            <label for="Input_nom"></label>
+            <input type="text" class="form-control" id="Input_nom" placeholder="Nom, prénom">
           </div>
-          <div class="col-lg-offset-1 col-lg-4 col-lg-offset-1 col-md-offset-1 col-md-4 col-md-offset-1 col-sm-12 col-xs-12">
-            <h1>Annie Bearez</h1>
-            <p>Coach certifiée, psychothérapeute ...<br/>Je vous accompagne ...<br/>Ma spécialité : les jeunes ...</p>
+          <div class="form-group">
+            <label for="Input_email"></label>
+            <input type="email" class="form-control" id="Input_email" placeholder="Email">
           </div>
+          <fieldset class="form-group">
+            <label for="Input_telephone"></label>
+            <input type="text" class="form-control" id="Input_telephone" placeholder="Téléphone">
+          </fieldset>
+          <fieldset class="form-group">
+            <label for="Input_sujet"></label>
+            <input type="text" class="form-control" id="Input_sujet" placeholder="Sujet">
+          </fieldset>
+          <fieldset class="form-group">
+            <label for="Input_texte"></label>
+            <textarea class="form-control" id="Input_texte" rows="3" placeholder="Mon message"></textarea>
+          </fieldset>
+          <button type="submit" class="btn btn-primary">Envoyer</button>
+        </form>
+        <div class="temoignages col-lg-offset-1 col-lg-5 col-lg-offset-1 col-md-offset-1 col-md-5 col-md-offset-1 col-sm-12 col-xs-12">
+          <p><strong>Michel DURAND, DRH, RTE</strong></p>
+          <p><em>«  Etiam metus risus, vestibulum sed sollicitudin at, vulputate non turpis. Quisque sollicitudin id odio et ullamcorper. Suspendisse ut diam lobortis, blandit orci non, rutrum dui. Morbi commodo tortor posuere consequat ultrices. Proin vulputate mi sed tortor tempor pharetra. Vestibulum tristique consequat ullamcorper. Donec posuere scelerisque nunc, non imperdiet urna tincidunt a.
+          Curabitur molestie augue ut placerat pharetra. Ut elementum nunc justo, a dictum nunc venenatis a. Proin posuere mattis augue, id pretium orci luctus non. Aliquam at pellentesque eros. Quisque luctus urna sed dolor imperdiet tempus. Quisque felis arcu, laoreet non mollis at, dictum a risus. Vestibulum vitae vehicula sem, ut pulvinar diam. Aenean scelerisque urna in auctor placerat. Maecenas eget dui justo. Pellentesque dui tellus, rutrum vel risus at, ultricies condimentum magna. Morbi mattis dolor massa, ac egestas nibh tristique nec. Phasellus non congue felis. Sed suscipit rhoncus augue eget egestas. »</em></p>
         </div>
-    </div>
+      </div>
 
-    <div class="section3_activites">
-      <div class="row">
-        <div class="formation_photo col-lg-offset-2 col-lg-2 col-md-offset-2 col-md-2 col-sm-offset-1 col-sm-10 col-sm-offset-1 col-xs-offset-1 col-xs-10 col-xs-offset-1"><img src="images/formation_test1.jpg" class="img-responsive">Formation</div>
-        <div class="coaching_photo col-lg-offset-1 col-lg-2 col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-10 col-sm-offset-1 col-xs-offset-1 col-xs-10 col-xs-offset-1"><img src="images/coaching_test1.jpg" class="img-responsive">Coaching</div>
-        <div class="atelier_photo col-lg-offset-1 col-lg-2 col-lg-offset-2 col-md-offset-1 col-md-2 col-md-offset-2 col-sm-offset-1 col-sm-10 col-sm-offset-1 col-xs-offset-1 col-xs-10 col-xs-offset-1"><img src="images/atelier_test1.jpg" class="img-responsive">Ateliers</div>
-      </div>
-      </div>
-    </div>
 
-    <div class="section4_blog">
-      <div class="row">
-        <div class="citation col-lg-offset-1 col-lg-3 col-md-offset-1 col-md-3 col-sm-offset-1 col-sm-10 col-sm-offset-1 col-xs-offset-1 col-xs-10 col-xs-offset-1">"Te justifier ne t'apportera jamais un chameau de plus."</div>
-        <div class="blog col-lg-offset-1 col-lg-6 col-lg-offset-1 col-md-offset-1 col-md-6 col-md-offset-1 col-sm-offset-1 col-sm-10 col-sm-offset-1 col-xs-offset-1 col-xs-10 col-xs-offset-1">La communication non violente : ...<br/>Petite histoire : ...</div>
-      </div>
-    </div>
 
   <?php
     include("footer.php")

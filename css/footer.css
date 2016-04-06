@@ -4,13 +4,13 @@
   height:125px;
   padding:25px;
   font-family: arial;
-font-weight: 800;
+	font-weight: 800;
 }
 
 
 .footer-section
 {
-  height:125px;
+  height:100px;
 }
 
 .footer-section > p
