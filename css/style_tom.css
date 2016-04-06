@@ -1,12 +1,16 @@
 body {
-	background-color: #c7c2c2;
+	background-color: white;
+	font-family: Arial, sans-serif; 
 }
 
 /* Page principale - Section1 */
 .section1_texte{
 	position:absolute;
-	color: #19B5FE;
+	color: white;
 	font-size: 250%;
+     text-shadow: 4px 2px 5px rgba(150, 150, 150, 1);
+     font-family: arial;
+	
 }
 
 .section1_texte > div{
@@ -14,15 +18,21 @@ body {
 }
 
 .section1_texte #Apprendre{
-	margin-top: 100px;
+	margin-top: 170px;
+	border:1px ridge #0076BC ;
+    background: #0076BC;
 }
 
 .section1_texte #Accompagner{
-	margin-top: 200px;
+	margin-top: 270px;
+    border:1px ridge #0076BC;
+    background: #0076BC;
 }
 
 .section1_texte #Developper{
-	margin-top: 300px;
+	margin-top: 370px;
+border:1px ridge #0076BC;
+    background: #0076BC;
 }
 
 .section1_photo{
@@ -41,13 +51,19 @@ body {
 .section2_presentation{
 	margin-top: 10px;
 	color:#FFFFFF;
-	background-color:#1E8BC3;
+	background-color:#0076BC;;
 }
 
 /* Page principale - Section3 */
 
 .section3_activites{
 	margin-top: 35px;
+    color: black;
+    text-align: center; 
+    font-family: arial, monospace;
+    font-size: 20px;
+	text-shadow: 4px 2px 5px rgba(150, 150, 150, 1);
+	
 }
 
 @media screen and (max-width: 640px) {
@@ -63,13 +79,14 @@ body {
 /* Page principale - Section4 */
 
 .section4_blog {
-	margin-top: 35px;
-	padding: 10px;
+	margin-top: 12px;
+	padding: 30px;
 	color:#FFFFFF;
-	background-color:#1E8BC3;
+	background-color:#0076BC;
 }
 
 .section4_blog .row .citation{
 	border-style: solid;
 	border-width: 3px;
+    
 }

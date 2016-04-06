@@ -41,16 +41,21 @@
           </div>
           <div class="col-lg-offset-1 col-lg-4 col-lg-offset-1 col-md-offset-1 col-md-4 col-md-offset-1 col-sm-12 col-xs-12">
             <h1>Annie Bearez</h1>
-            <p>Coach certifiée, psychothérapeute ...<br/>Je vous accompagne ...<br/>Ma spécialité : les jeunes ...</p>
+            <p>Quam ob rem id primum videamus, si placet, quatenus amor in amicitia progredi debeat. Numne, si Coriolanus habuit amicos, ferre contra patriam arma illi cum Coriolano debuerunt? num Vecellinum amici regnum adpetentem, num Maelium debuerunt iuvare?
+
+Illud tamen clausos vehementer angebat quod captis navigiis, quae frumenta vehebant per flumen, Isauri quidem alimentorum copiis adfluebant, ipsi vero solitarum rerum cibos iam consumendo inediae propinquantis aerumnas exitialis horrebant.
+
+Quo cognito.</p>
           </div>
         </div>
     </div>
 
     <div class="section3_activites">
       <div class="row">
-        <div class="formation_photo col-lg-offset-2 col-lg-2 col-md-offset-2 col-md-2 col-sm-offset-1 col-sm-10 col-sm-offset-1 col-xs-offset-1 col-xs-10 col-xs-offset-1"><img src="images/formation_test1.jpg" class="img-responsive">Formation</div>
-        <div class="coaching_photo col-lg-offset-1 col-lg-2 col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-10 col-sm-offset-1 col-xs-offset-1 col-xs-10 col-xs-offset-1"><img src="images/coaching_test1.jpg" class="img-responsive">Coaching</div>
-        <div class="atelier_photo col-lg-offset-1 col-lg-2 col-lg-offset-2 col-md-offset-1 col-md-2 col-md-offset-2 col-sm-offset-1 col-sm-10 col-sm-offset-1 col-xs-offset-1 col-xs-10 col-xs-offset-1"><img src="images/atelier_test1.jpg" class="img-responsive">Ateliers</div>
+        <div class="formation_photo col-lg-offset-2 col-lg-2 col-md-offset-2 col-md-2 col-sm-offset-1 col-sm-10 col-sm-offset-1 col-xs-offset-1 col-xs-10 col-xs-offset-1">
+          <a href="./mes_prestations.php"> <img src="images/formation_test1.jpg" class="img-responsive"> </a>  Formation</div>
+        <div class="coaching_photo col-lg-offset-1 col-lg-2 col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-10 col-sm-offset-1 col-xs-offset-1 col-xs-10 col-xs-offset-1"> <a href="./mes_prestations.php"> <img src="images/coaching_test1.jpg" class="img-responsive"> </a> Coaching</div>
+        <div class="atelier_photo col-lg-offset-1 col-lg-2 col-lg-offset-2 col-md-offset-1 col-md-2 col-md-offset-2 col-sm-offset-1 col-sm-10 col-sm-offset-1 col-xs-offset-1 col-xs-10 col-xs-offset-1"> <a href="./mes_prestations.php"> <img src="images/atelier_test1.jpg" class="img-responsive"> </a> Ateliers</div>
       </div>
       </div>
     </div>
