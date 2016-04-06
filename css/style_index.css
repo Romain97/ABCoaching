@@ -1,6 +1,6 @@
 body {
 	background-color: white;
-	font-family: Arial, sans-serif;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 	overflow-x:hidden;
 }
 
@@ -69,14 +69,17 @@ body {
 /* Page principale - Section3 */
 
 .section3_activites{
-	margin-top: 35px;
     color: black;
     text-align: center; 
     font-family: arial, monospace;
     font-size: 20px;
-	min-height:350px;
 	padding-top:50px;
-	
+	background-color: #f8f8f8;
+}
+
+.section3_activites .row{
+	margin-top: 35px;
+	min-height:350px;
 }
 
 @media screen and (max-width: 640px) {
@@ -91,17 +94,41 @@ body {
 
 /* Page principale - Section4 */
 
-.section4_blog {
-	margin-top: 12px;
+.index_section4_blog {
 	padding: 30px;
 	color:#FFFFFF;
 	background-color:#1BBC9B;
 	min-height:350px;
 }
 
-.section4_blog .row .citation{
+.index_section4_blog .row .citation{
 	font-size:35px;
 	font-style:italic;
-	padding-top:40px;
-    
+	padding-top:40px; 
+}
+
+.index_section4_blog .row .blog1{
+	font-size:15px;
+}
+
+.c-frame-tl {
+  top: 0;
+  left: 0;
+  position: absolute;
+  width:10px;
+  height:10px;
+  border-width: 3px;
+  border-style: solid none none solid;
+  border-color: #FFFFFF;
+}
+
+.c-frame-br {
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  width:10px;
+  height:10px;
+  border-width: 3px;
+  border-style: none solid solid none;
+  border-color: #FFFFFF;
 }

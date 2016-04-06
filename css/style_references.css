@@ -12,3 +12,13 @@ body {
 		  o-background-size:cover;
 			background-size:cover;
 }
+
+.references_section2{
+	margin-top: 50px;
+}
+
+.references_section2 img{
+	height: 80px;
+	padding: 5px;
+	margin: 0 50px 50px 50px;
+}

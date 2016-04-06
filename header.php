@@ -41,7 +41,7 @@
                               </ul>
                               <ul class="nav navbar-nav navbar-right">
                                 <li><a href="contact.php">Contact</a></li>
-                                <li><a class="linked_in" href="https://fr.linkedin.com/in/anniebearez"><img alt="Brand" src="./images/Linked_In.png"></a></li>
+                                <li><a class="linked_in" href="https://fr.linkedin.com/in/anniebearez"><img alt="Brand" src="./images/LinkedIn_logo_initials.png"></a></li>
                               </ul>
                             </div>
                         </div>

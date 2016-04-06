@@ -1,15 +1,18 @@
-nav li{
-	padding: 0 20px !important;
-	display: center;
+.navbar{
+	margin-bottom: 0px;
+}
 
+nav li{
+	padding: 0 18px 5px 0;
+	display: center;
 }
 
 .nautile{
-	height: 130%;
-	width: 130%;
+	height: 170%;
+	margin-left: -5px;
+	margin-top: -5px;
 }
 
 .linked_in img{
-	padding: 0;
-	height: 30px;
+	height: 20px;
 }

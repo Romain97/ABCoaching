@@ -24,7 +24,7 @@
       <div class="row">
         <!--Formulaire-->
         <form class="formulaire col-lg-offset-1 col-lg-4 col-md-offset-1 col-md-5 col-sm-12 col-xs-12">
-          <h1>Formulaire de contact :</h1>
+          <h1>Formulaire de témoignage :</h1>
           <div class="form-group">
             <label for="Input_nom"></label>
             <input type="text" class="form-control" id="Input_nom" placeholder="Nom, prénom">
