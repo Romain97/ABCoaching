@@ -48,9 +48,15 @@
 
     <div class="section3_activites">
       <div class="row">
-        <div class="formation_photo col-lg-offset-2 col-lg-2 col-md-offset-2 col-md-2 col-sm-offset-1 col-sm-10 col-sm-offset-1 col-xs-offset-1 col-xs-10 col-xs-offset-1"><img src="images/formation_test1.jpg" class="img-responsive">Formation</div>
-        <div class="coaching_photo col-lg-offset-1 col-lg-2 col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-10 col-sm-offset-1 col-xs-offset-1 col-xs-10 col-xs-offset-1"><img src="images/coaching_test1.jpg" class="img-responsive">Coaching</div>
-        <div class="atelier_photo col-lg-offset-1 col-lg-2 col-lg-offset-2 col-md-offset-1 col-md-2 col-md-offset-2 col-sm-offset-1 col-sm-10 col-sm-offset-1 col-xs-offset-1 col-xs-10 col-xs-offset-1"><img src="images/atelier_test1.jpg" class="img-responsive">Ateliers</div>
+        <div class="formation_photo col-lg-offset-1 col-lg-3 col-md-offset-2 col-md-2 col-sm-offset-1 col-sm-10 col-sm-offset-1 col-xs-offset-1 col-xs-10 col-xs-offset-1">
+          <img src="images/formation_test1.jpg" class="img-responsive">Formation
+        </div>
+        <div class="coaching_photo col-lg-3 col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-10 col-sm-offset-1 col-xs-offset-1 col-xs-10 col-xs-offset-1">
+          <img src="images/coaching_test1.jpg" class="img-responsive">Coaching
+        </div>
+        <div class="atelier_photo col-lg-3 col-lg-offset-2 col-md-offset-1 col-md-2 col-md-offset-2 col-sm-offset-1 col-sm-10 col-sm-offset-1 col-xs-offset-1 col-xs-10 col-xs-offset-1">
+          <img src="images/atelier_test1.jpg" class="img-responsive">Ateliers
+        </div>
       </div>
       </div>
     </div>
