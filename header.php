@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="fr">
+    
     <head>
         <meta charset="utf-8">
         <title>ABCoaching</title>
@@ -9,6 +10,7 @@
         <link rel="stylesheet" type="text/css" href="./css/main.css"/>
         <link rel="stylesheet" type="text/css" href="./css/header.css"/>
     </head>
+    
     <body>
     	<div class="container">
             <div class="row">
