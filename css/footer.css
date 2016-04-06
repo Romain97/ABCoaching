@@ -1,0 +1,34 @@
+.footer-main
+{
+  background-color: #2C3E50;
+  height:125px;
+  padding:25px;
+  font-family: arial;
+font-weight: 800;
+}
+
+
+.footer-section
+{
+  height:125px;
+}
+
+.footer-section > p
+{
+ color: #19B5FE;
+}
+
+.left
+{
+	text-align:left;
+color: #19B5FE;
+}
+
+
+.right
+{
+	text-align:right;
+}
+.bigo {
+
+}
