@@ -25,23 +25,23 @@
                                     <span class="icon-bar"></span>
                                     <span class="icon-bar"></span>
                                 </button>
-                                <a class="navbar-brand" href="index_fred.php">
+                                <a class="navbar-brand" href="./index.php">
                                     <img alt="nautile" src="./images/petit_nautile_bleu.png" class="nautile">
                                 </a>
                             </div>
                             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                               <ul class="nav navbar-nav">
                                 <li class="active"><a href="index.php">Accueil</a></li>
-                                <li><a href="#">Qui suis-je ?</a></li>
-                                <li><a href="#">Mes prestations</a></li>
-                                <li><a href="#">Références</a></li>
-                                <li><a href="#">Liens</a></li>
-                                <li><a href="#">Témoignages</a></li>
-                                <li><a href="#">Blog</a></li>
+                                <li><a href="./qui_suis_je.php">Qui suis-je ?</a></li>
+                                <li><a href="./mes_prestations.php">Mes prestations</a></li>
+                                <li><a href="./references.php">Références</a></li>
+                                <li><a href="./liens.php">Liens</a></li>
+                                <li><a href="./temoignages.php">Témoignages</a></li>
+                                <li><a href="./blog.php">Blog</a></li>
                               </ul>
                               <ul class="nav navbar-nav navbar-right">
                                 <li><a href="contact.php">Contact</a></li>
-                                <li><a class="linked_in" href="#"><img alt="Brand" src="./images/Linked_In.png"></a></li>
+                                <li><a class="linked_in" href="https://fr.linkedin.com/in/anniebearez"><img alt="Brand" src="./images/Linked_In.png"></a></li>
                               </ul>
                             </div>
                         </div>
