@@ -4,8 +4,9 @@
 		<script type="text/javascript" src="./js/bootstrap.js"></script>
 		<script type="text/javascript" src="./js/script.js"></script>
 		<link type="text/css" rel="stylesheet" href="./css/bootstrap.css">
-		<link type="text/css" rel="stylesheet" href="./css/style.css">
+		<link type="text/css" rel="stylesheet" href="./css/footer.css">
 	</head>
+	
 	<body>
 		<div class="col-sm-12 col-md-12 col-lg-12 footer-main">
 			<div class="col-sm-4 col-md-4 col-lg-4 footer-section left">

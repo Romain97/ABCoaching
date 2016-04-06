@@ -7,7 +7,7 @@
         <script type="text/javascript" src="./js/bootstrap.min.js"></script>
         <link type="text/css" rel="stylesheet" href="./css/bootstrap.min.css">
         <link rel="stylesheet" type="text/css" href="./css/main.css"/>
-        <link rel="stylesheet" type="text/css" href="./css/style_fred.css"/>
+        <link rel="stylesheet" type="text/css" href="./css/header.css"/>
     </head>
     <body>
     	<div class="container">

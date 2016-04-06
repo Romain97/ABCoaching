@@ -20,6 +20,10 @@
 	</head>
 	
 	<body>
+
+    <?php
+      include("header.php")
+    ?>
   
     <div class="section1_texte">
       <div id="Apprendre">Apprendre</div>
@@ -57,6 +61,10 @@
         <div class="blog col-lg-offset-1 col-lg-6 col-lg-offset-1 col-md-offset-1 col-md-6 col-md-offset-1 col-sm-offset-1 col-sm-10 col-sm-offset-1 col-xs-offset-1 col-xs-10 col-xs-offset-1">La communication non violente : ...<br/>Petite histoire : ...</div>
       </div>
     </div>
+
+  <?php
+    include("footer.php")
+  ?>
 
 	</body>
 
