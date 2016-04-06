@@ -1,6 +1,7 @@
 body {
 	background-color: white;
-	font-family: Arial, sans-serif; 
+	font-family: Arial, sans-serif;
+	overflow-x:hidden;
 }
 
 /* Page principale - Section1 */
@@ -8,9 +9,18 @@ body {
 	position:absolute;
 	color: white;
 	font-size: 250%;
-     text-shadow: 4px 2px 5px rgba(150, 150, 150, 1);
-     font-family: arial;
+    font-family: arial;
 	
+}
+
+.biographie
+{
+	padding-top:50px;
+}
+
+.biographie p
+{
+	font-size:20px;
 }
 
 .section1_texte > div{
@@ -19,20 +29,23 @@ body {
 
 .section1_texte #Apprendre{
 	margin-top: 170px;
-	border:1px ridge #0076BC ;
-    background: #0076BC;
+	border:1px ridge #19B5FE;
+    background: #1BBC9B;
+    padding:10px;
 }
 
 .section1_texte #Accompagner{
 	margin-top: 270px;
-    border:1px ridge #0076BC;
-    background: #0076BC;
+    border:1px ridge #19B5FE;
+    background: #1BBC9B;
+    padding:10px;
 }
 
 .section1_texte #Developper{
 	margin-top: 370px;
-border:1px ridge #0076BC;
-    background: #0076BC;
+	border:1px ridge #19B5FE;
+    background: #1BBC9B;
+    padding:10px;
 }
 
 .section1_photo{
@@ -49,9 +62,8 @@ border:1px ridge #0076BC;
 /* Page principale - Section2 */
 
 .section2_presentation{
-	margin-top: 10px;
 	color:#FFFFFF;
-	background-color:#0076BC;;
+	background-color:#1BBC9B;
 }
 
 /* Page principale - Section3 */
@@ -62,7 +74,8 @@ border:1px ridge #0076BC;
     text-align: center; 
     font-family: arial, monospace;
     font-size: 20px;
-	text-shadow: 4px 2px 5px rgba(150, 150, 150, 1);
+	min-height:350px;
+	padding-top:50px;
 	
 }
 
@@ -82,11 +95,13 @@ border:1px ridge #0076BC;
 	margin-top: 12px;
 	padding: 30px;
 	color:#FFFFFF;
-	background-color:#0076BC;
+	background-color:#1BBC9B;
+	min-height:350px;
 }
 
 .section4_blog .row .citation{
-	border-style: solid;
-	border-width: 3px;
+	font-size:35px;
+	font-style:italic;
+	padding-top:40px;
     
 }

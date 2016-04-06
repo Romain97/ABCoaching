@@ -5,15 +5,15 @@
 		<meta charset="utf-8"/>
 		<script type ="text/javascript" src="./js/boostrap.min.js"></script>
     <script src="./js/jquery.js"></script>
+    <link type="text/css" rel="stylesheet" href="./css/style_tom.css">
     <link type="text/css" rel="stylesheet" href="./css/bootstrap.min.css">
-		<link type="text/css" rel="stylesheet" href="./css/style_tom.css">
 		<title>ABCoaching</title>
 
     <script>
       $(document).ready(function(){
         $("#Apprendre").animate({left: '100px'}); 
         $("#Accompagner").animate({left: '250px'});
-        $("#Developper").animate({left: '400px'});   
+        $("#Developper").animate({left: '450px'});   
       });
     </script>
 
@@ -37,25 +37,43 @@
     <div class="section2_presentation">
         <div class="row">
           <div class="col-lg-offset-1 col-lg-5 col-md-offset-1 col-md-5 col-sm-offset-2 col-sm-8 col-sm-offset-2 col-xs-offset-2 col-xs-8 col-xs-offset-2">
-            <img src="images/annie_main.png" class="img-responsive">
+            <img src="images/photo2annie.png" class="img-responsive">
           </div>
-          <div class="col-lg-offset-1 col-lg-4 col-lg-offset-1 col-md-offset-1 col-md-4 col-md-offset-1 col-sm-12 col-xs-12">
+          <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 biographie">
             <h1>Annie Bearez</h1>
             <p>Quam ob rem id primum videamus, si placet, quatenus amor in amicitia progredi debeat. Numne, si Coriolanus habuit amicos, ferre contra patriam arma illi cum Coriolano debuerunt? num Vecellinum amici regnum adpetentem, num Maelium debuerunt iuvare?
 
-Illud tamen clausos vehementer angebat quod captis navigiis, quae frumenta vehebant per flumen, Isauri quidem alimentorum copiis adfluebant, ipsi vero solitarum rerum cibos iam consumendo inediae propinquantis aerumnas exitialis horrebant.
-
-Quo cognito.</p>
+Illud tamen clausos vehementer angebat quod captis navigiis, quae frumenta vehebant per flumen, Isauri quidem alimentorum copiis adfluebant, ipsi vero solitarum rerum cibos.</p>
           </div>
         </div>
     </div>
 
     <div class="section3_activites">
       <div class="row">
-        <div class="formation_photo col-lg-offset-2 col-lg-2 col-md-offset-2 col-md-2 col-sm-offset-1 col-sm-10 col-sm-offset-1 col-xs-offset-1 col-xs-10 col-xs-offset-1">
-          <a href="./mes_prestations.php"> <img src="images/formation_test1.jpg" class="img-responsive"> </a>  Formation</div>
-        <div class="coaching_photo col-lg-offset-1 col-lg-2 col-md-offset-1 col-md-2 col-sm-offset-1 col-sm-10 col-sm-offset-1 col-xs-offset-1 col-xs-10 col-xs-offset-1"> <a href="./mes_prestations.php"> <img src="images/coaching_test1.jpg" class="img-responsive"> </a> Coaching</div>
-        <div class="atelier_photo col-lg-offset-1 col-lg-2 col-lg-offset-2 col-md-offset-1 col-md-2 col-md-offset-2 col-sm-offset-1 col-sm-10 col-sm-offset-1 col-xs-offset-1 col-xs-10 col-xs-offset-1"> <a href="./mes_prestations.php"> <img src="images/atelier_test1.jpg" class="img-responsive"> </a> Ateliers</div>
+        <div class="col-md-12">
+          <div class="col-md-10 col-md-offset-1">
+            <div class="col-md-12">
+              <div class="formation_photo col-lg-4 col-md-4 col-sm-4 col-xs-12">
+                <a href="./mes_prestations.php"> 
+                  <img src="images/formation_test1.jpg" alt="" title="" class="img-responsive"> 
+                </a>
+                Formation
+              </div>
+              <div class="coaching_photo col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
+                <a href="./mes_prestations.php"> 
+                  <img src="images/coaching_test1.jpg" alt="" title="" class="img-responsive"> 
+                </a> 
+                Coaching
+              </div>
+              <div class="atelier_photo col-lg-4 col-md-4 col-sm-4 col-xs-12"> 
+                <a href="./mes_prestations.php"> 
+                  <img src="images/atelier_test1.jpg" alt="" title="" class="img-responsive"> 
+                </a> 
+                Ateliers
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
 
