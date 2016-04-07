@@ -17,9 +17,6 @@
       include("header.php")
     ?>
 
-    <div class="temoignages_section1_photo"></div>
-
-
     <div class="temoignages_section2">
       <div class="row">
         <!--Formulaire-->

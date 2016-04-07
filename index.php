@@ -7,6 +7,7 @@
     <script src="./js/jquery.js"></script>
     <link type="text/css" rel="stylesheet" href="./css/style_index.css">
     <link type="text/css" rel="stylesheet" href="./css/bootstrap.min.css">
+    <link href='https://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css'>
 		<title>ABCoaching</title>
 
     <script>
@@ -49,6 +50,7 @@
 
     <div class="section3_activites">
       <div class="row">
+        <p>Je vous propose...</p>
         <!--<div class="col-md-12">-->
           <div class="col-lg-10 col-lg-offset-1">
             <!--<div class="col-md-12">-->
@@ -56,19 +58,19 @@
                 <a href="./mes_prestations.php"> 
                   <img src="images/formation_test1.jpg" alt="" title="" class="img-responsive"> 
                 </a>
-                Formation
+                <h3>Formation</h3>Lorem ipsum<br>dolor sit amet
               </div>
               <div class="coaching_photo col-lg-4 col-md-4 col-sm-12 col-xs-12"> 
                 <a href="./mes_prestations.php"> 
                   <img src="images/coaching_test1.jpg" alt="" title="" class="img-responsive"> 
                 </a> 
-                Coaching
+                <h3>Coaching</h3>Lorem ipsum<br>dolor sit amet
               </div>
               <div class="atelier_photo col-lg-4 col-md-4 col-sm-12 col-xs-12"> 
                 <a href="./mes_prestations.php"> 
                   <img src="images/atelier_test1.jpg" alt="" title="" class="img-responsive"> 
                 </a> 
-                Ateliers
+                <h3>Ateliers</h3>Lorem ipsum<br>dolor sit amet
               </div>
 
           </div>
