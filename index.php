@@ -5,9 +5,9 @@
 		<meta charset="utf-8"/>
 		<script type ="text/javascript" src="./js/boostrap.min.js"></script>
     <script src="./js/jquery.js"></script>
-    <link type="text/css" rel="stylesheet" href="./css/style_index.css">
     <link type="text/css" rel="stylesheet" href="./css/bootstrap.min.css">
-    <link href='https://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css'>    
+    <link type="text/css" rel="stylesheet" href="./css/style_index.css">
 		<title>ABCoaching</title>
 
     <script>
@@ -25,22 +25,22 @@
     <?php
       include("header.php")
     ?>
-  
-    <div class="section1_texte">
+    
+    <div class="index_section1_texte">
       <div id="Apprendre">Apprendre</div>
       <div id="Accompagner">Accompagner</div>
       <div id="Developper">Développer</div>
     </div>
 
-    <div class="section1_photo"></div>
+    <div class="index_section1_photo"></div>
 
 
-    <div class="section2_presentation">
+    <div class="index_section2_presentation">
         <div class="row">
           <div class="col-lg-offset-1 col-lg-5 col-md-offset-1 col-md-5 col-sm-offset-2 col-sm-8 col-sm-offset-2 col-xs-offset-2 col-xs-8 col-xs-offset-2">
             <img src="images/photo2annie.png" class="img-responsive">
           </div>
-          <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 biographie">
+          <div class="biographie col-lg-4 col-md-4 col-sm-12 col-xs-12">
             <h1>Annie Bearez</h1>
             <p>Quam ob rem id primum videamus, si placet, quatenus amor in amicitia progredi debeat. Numne, si Coriolanus habuit amicos, ferre contra patriam arma illi cum Coriolano debuerunt? num Vecellinum amici regnum adpetentem, num Maelium debuerunt iuvare?
             Illud tamen clausos vehementer angebat quod captis navigiis, quae frumenta vehebant per flumen, Isauri quidem alimentorum copiis adfluebant, ipsi vero solitarum rerum cibos.</p>
@@ -48,7 +48,7 @@
         </div>
     </div>
 
-    <div class="section3_activites">
+    <div class="index_section3_activites">
       <div class="row">
         <p>Je vous propose...</p>
         <!--<div class="col-md-12">-->
@@ -58,7 +58,7 @@
                 <a href="./mes_prestations.php"> 
                   <img src="images/formation_test1.jpg" alt="" title="" class="img-responsive"> 
                 </a>
-                <h3>Formation</h3>Lorem ipsum<br>dolor sit amet
+                <h3>Formations</h3>Lorem ipsum<br>dolor sit amet
               </div>
               <div class="coaching_photo col-lg-4 col-md-4 col-sm-12 col-xs-12"> 
                 <a href="./mes_prestations.php"> 
@@ -95,7 +95,6 @@
         </div>
       </div>
     </div>
-
   <?php
     include("footer.php")
   ?>

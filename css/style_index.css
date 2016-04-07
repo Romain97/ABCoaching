@@ -5,7 +5,7 @@ body {
 }
 
 /* Page principale - Section1 */
-.section1_texte{
+.index_section1_texte{
 	position:absolute;
 	color: white;
 	font-size: 250%;
@@ -13,43 +13,32 @@ body {
 	
 }
 
-.biographie
-{
-	padding-top:50px;
-}
-
-.biographie p
-{
-	font-size:20px;
-}
-
-.section1_texte > div{
+.index_section1_texte > div{
 	position:absolute;
 }
 
-.section1_texte #Apprendre{
+.index_section1_texte #Apprendre{
 	margin-top: 170px;
     background: rgba(27, 188, 155, 0.4);
     padding:10px;
 }
 
-.section1_texte #Accompagner{
+.index_section1_texte #Accompagner{
 	margin-top: 270px;
     background: rgba(27, 188, 155, 0.4);
     padding:10px;
 }
 
-.section1_texte #Developper{
+.index_section1_texte #Developper{
 	margin-top: 370px;
     background: rgba(27, 188, 155, 0.4);
     padding:10px;
 }
 
-.section1_photo{
+.index_section1_photo{
 	width:100%;
-	height:45em;
-	color:#19B5FE;
-	background: url("../images/photo1_ok.jpg") no-repeat center center fixed;
+	height:49em;
+	background: url("../images/green-692079_ABC1.jpg") no-repeat center center fixed;
 	-webkit-background-size:cover;
 		moz-background-size:cover;
 		  o-background-size:cover;
@@ -58,14 +47,23 @@ body {
 
 /* Page principale - Section2 */
 
-.section2_presentation{
+.index_section2_presentation .biographie
+{
+	padding-top:50px;
+}
+
+.index_section2_presentation .biographie p
+{
+	font-size:20px;
+}
+.index_section2_presentation{
 	color:#FFFFFF;
 	background-color:#1BBC9B;
 }
 
 /* Page principale - Section3 */
 
-.section3_activites{
+.index_section3_activites{
     color: black;
     text-align: center; 
     font-family: arial, monospace;
@@ -74,21 +72,21 @@ body {
 	background-color: #f8f8f8;
 }
 
-.section3_activites .row{
+.index_section3_activites .row{
 	margin-top: 15px;
-	margin-bottom: 70px;
+	padding-bottom: 70px;
 	min-height:350px;
 }
 
-.section3_activites .row p{
+.index_section3_activites .row p{
 	padding: 20px;
 }
 
 @media screen and (max-width: 640px) {
-  .section3_activites .row .coaching_photo {
+  .index_section3_activites .row .coaching_photo {
   	margin-top: 10px;
   }
-  .section3_activites .row .atelier_photo {
+  .index_section3_activites .row .atelier_photo {
   	margin-top: 10px;
   }
 }
@@ -113,7 +111,7 @@ body {
 	font-size:15px;
 }
 
-.c-frame-tl {
+.index_section4_blog .row .blog1 .c-frame-tl {
   top: 0;
   left: 0;
   position: absolute;
@@ -124,7 +122,7 @@ body {
   border-color: #FFFFFF;
 }
 
-.c-frame-br {
+.index_section4_blog .row .blog1 .c-frame-br {
   bottom: 0;
   right: 0;
   position: absolute;
