@@ -28,12 +28,12 @@
     ?>
      
     <div class="index_section1_texte">
-      <div id="Apprendre"> 
-      <a href="./formations.php"> Apprendre</a></div>
+      <div id="Apprendre">
+      <a class="non_soulignement" href="./formations.php"> Apprendre</a></div>
       <div id="Accompagner">
-      <a href="./coaching.php">Accompagner</a></div>
+      <a class="non_soulignement" href="./coaching.php">Accompagner</a></div>
       <div id="Developper">
-      <a href="./ateliers.php"> Développer</a></div>
+      <a class="non_soulignement" href="./ateliers.php"> Développer</a></div>
      
     </div>
 
