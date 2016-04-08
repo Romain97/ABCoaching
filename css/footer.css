@@ -1,10 +1,11 @@
 .footer-main
 {
-  background-color: #2C3E50;
+  background-color: #d2d4dc;
   height:125px;
   padding:25px;
   font-family: arial;
-	font-weight: 800;
+  color: black
+
 }
 
 
@@ -13,22 +14,35 @@
   height:100px;
 }
 
-.footer-section > p
-{
- color: #1BBC9B;
-}
+.middle
 
-.left
 {
-	text-align:left;
-color: #1BBC9B;
+ color: black;
+ text-align: left;
+  padding-bottom:25px;
+  height: auto;
+  font-family: arial;
 }
 
 
 .right
 {
 	text-align:right;
-}
-.bigo {
+	color: black;
 
 }
+
+
+}
+.footerdroit {
+	vertical-align: right;
+    text-decoration: none; 
+    font-family: arial;
+}
+
+
+.liens {
+	text-decoration: none !important;
+	color: grey;
+	font-family: arial; 
+	 }

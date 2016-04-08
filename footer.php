@@ -8,21 +8,32 @@
 	</head>
 	
 	<body>
-		<div class="col-sm-12 col-md-12 col-lg-12 footer-main">
-			<div class="col-sm-4 col-md-4 col-lg-4 footer-section left">
+			<div class="row">
+		<div class="footer-main">
+			<div class=" col-xs-3 col-sm-3 col-md-3 col-lg-3 footer-section left">
 				<p>41 Rue Robert Poisson </p>
 				<p>28130 SAINT PIAT </p>
 				<p>PARIS : Place d'Italie, Nationale</p>
 			</div>	
-			<div class="col-sm-4 col-md-4 col-lg-4 footer-section left">
-				<p>06 87 68 13 99  </p>
-				<p>annie.bearez@wanadoo.fr</p>
+			<div class="col-xs-4 col-sm-4col-md-4 col-lg-4 footer-section middle">
+				
+					<img src= "images/telephone.png" alt="" title="" class="col-xs-2 col-sm-2 col-md-2 col-lg-2"> 
+					<p class="col-sm-4 col-md-4 col-lg-4">06 87 68 13 99  </p>
+				
+				
+					<img src= "images/mail.png" alt="" title="" class=" col-xs-2 col-sm-2 col-md-2 col-lg-2">
+					<p class="col-sm-4 col-md-4 col-lg-4">annie.bearez@wanadoo.fr</p>
+				
 			</div>
-			<div class="col-sm-4 col-md-4 col-lg-4 footer-section right">
-				<p>Plan du site</p>
-                <p> Mentions legales &copy;</p> 
+			<div class=" col-md-4 col-lg-4 footer-section right">
+				<div class="footerdroit">
+				
+				<p> <a class="liens" href="plandusite.php"> Plan du site </a> </p>
+                <p> <a class="liens" href="mentionslegales.php"> Mentions legales</a> &copy;</p> 
 				<p>SIRET : 385 293 758 00038</p>
+				</div>
 			</div>
 		</div>
+			</div>									
 	</body>
-</html>
+</html>   
