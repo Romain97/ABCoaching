@@ -55,7 +55,7 @@
 
     <div class="index_section3_activites">
       <div class="row">
-        <p>Je vous propose...</p>
+        <p>Je vous propose</p>
         <!--<div class="col-md-12">-->
           <div class="col-lg-10 col-lg-offset-1">
             <!--<div class="col-md-12">-->
