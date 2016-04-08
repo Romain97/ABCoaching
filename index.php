@@ -60,19 +60,19 @@
           <div class="col-lg-10 col-lg-offset-1">
             <!--<div class="col-md-12">-->
               <div class="formation_photo col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                <a href="./mes_prestations.php"> 
+                <a href="./formations.php"> 
                   <img src="images/formation_test1.jpg" alt="" title="" class="img-responsive"> 
                 </a>
                 <h3>Formations</h3>Management d'équipe,<br>préparation à la retraite, etc.
               </div>
               <div class="coaching_photo col-lg-4 col-md-4 col-sm-12 col-xs-12"> 
-                <a href="./mes_prestations.php"> 
+                <a href="./coaching.php"> 
                   <img src="images/coaching_test1.jpg" alt="" title="" class="img-responsive"> 
                 </a> 
                 <h3>Coaching</h3>Franchir un obstacle,<br>atteindre un objectif, etc.
               </div>
               <div class="atelier_photo col-lg-4 col-md-4 col-sm-12 col-xs-12"> 
-                <a href="./mes_prestations.php"> 
+                <a href="./ateliers.php"> 
                   <img src="images/atelier_test1.jpg" alt="" title="" class="img-responsive"> 
                 </a> 
                 <h3>Ateliers</h3>Co-développement</br>En demi-journée par petit groupe
