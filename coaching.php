@@ -2,12 +2,14 @@
 <html lang="fr">
 	
   <head>
-		<meta charset="utf-8"/>
-		<script type ="text/javascript" src="./js/boostrap.min.js"></script>
-    <script src="./js/jquery.js"></script>
-    <link type="text/css" rel="stylesheet" href="./css/bootstrap.min.css">
+
+    <?php
+      include("./css/commun.css")
+    ?>
+
 		<link type="text/css" rel="stylesheet" href="./css/style_prestations.css">
-		<title>Mes prestations</title>
+
+		<title>Coaching</title>
 
 	</head>
 	

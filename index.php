@@ -2,12 +2,13 @@
 <html lang="fr">
 	
   <head>
-		<meta charset="utf-8"/>
-		<script type ="text/javascript" src="./js/boostrap.min.js"></script>
-    <script src="./js/jquery.js"></script>
-    <link type="text/css" rel="stylesheet" href="./css/bootstrap.min.css">
-    <link href='https://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css'>    
+
+    <?php
+      include("./css/commun.css")
+    ?>
+
     <link type="text/css" rel="stylesheet" href="./css/style_index.css">
+
 		<title>ABCoaching</title>
 
     <script>
@@ -25,11 +26,15 @@
     <?php
       include("header.php")
     ?>
-    
+     
     <div class="index_section1_texte">
-      <div id="Apprendre">Apprendre</div>
-      <div id="Accompagner">Accompagner</div>
-      <div id="Developper">Développer</div>
+      <div id="Apprendre"> 
+      <a href="./formations.php"> Apprendre</a></div>
+      <div id="Accompagner">
+      <a href="./coaching.php">Accompagner</a></div>
+      <div id="Developper">
+      <a href="./ateliers.php"> Développer</a></div>
+     
     </div>
 
     <div class="index_section1_photo"></div>
@@ -58,19 +63,19 @@
                 <a href="./mes_prestations.php"> 
                   <img src="images/formation_test1.jpg" alt="" title="" class="img-responsive"> 
                 </a>
-                <h3>Formations</h3>Lorem ipsum<br>dolor sit amet
+                <h3>Formations</h3>Management d'équipe,<br>préparation à la retraite, etc.
               </div>
               <div class="coaching_photo col-lg-4 col-md-4 col-sm-12 col-xs-12"> 
                 <a href="./mes_prestations.php"> 
                   <img src="images/coaching_test1.jpg" alt="" title="" class="img-responsive"> 
                 </a> 
-                <h3>Coaching</h3>Lorem ipsum<br>dolor sit amet
+                <h3>Coaching</h3>Franchir un obstacle,<br>atteindre un objectif, etc.
               </div>
               <div class="atelier_photo col-lg-4 col-md-4 col-sm-12 col-xs-12"> 
                 <a href="./mes_prestations.php"> 
                   <img src="images/atelier_test1.jpg" alt="" title="" class="img-responsive"> 
                 </a> 
-                <h3>Ateliers</h3>Lorem ipsum<br>dolor sit amet
+                <h3>Ateliers</h3>Co-développement</br>En demi-journée par petit groupe
               </div>
 
           </div>
