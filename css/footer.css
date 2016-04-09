@@ -23,8 +23,18 @@
   font-color: black;
 }
 
-@media screen and (max-width: 1000px){
+@media screen and (max-width: 800px){
+  .footer {
+    font-size: 10px;
+  }
+  .footer_left {
+    text-align: center;
+  }
+  .footer_middle {
+    text-align: center;
+    padding: 5px 0 5px 0;
+  }
   .footer_right {
-    text-align: left;
+    text-align: center;
   }
 }
