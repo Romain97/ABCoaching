@@ -5,51 +5,40 @@ body {
 }
 
 /* Page principale - Section1 */
-.index_section1_texte{
-	position:absolute;
-	color: white;
-	font-size: 250%;
-    font-family: arial;
-	
-}
-
-.index_section1_texte > div{
-	position:absolute;
-}
-
-
-.non_soulignement:hover{
-	text-decoration: none;
-
-}
-
-
-.index_section1_texte #Apprendre{
-	margin-top: 170px;
-    	background: rgba(27, 188, 155, 0.4);
-    	padding:10px;
-}
-
-.index_section1_texte #Accompagner{
-	margin-top: 270px;
-    background: rgba(27, 188, 155, 0.4);
-    padding:10px;
-}
-
-.index_section1_texte #Developper{
-	margin-top: 370px;
-    background: rgba(27, 188, 155, 0.4);
-    padding:10px;
-}
-
-.index_section1_photo{
-	width:100%;
-	height:49em;
+.index_section1{
+	height: 45em;
 	background: url("../images/green-692079_ABC1.jpg") no-repeat center center fixed;
 	-webkit-background-size:cover;
 		moz-background-size:cover;
 		  o-background-size:cover;
-			background-size:cover;
+			background-size:cover;	
+}
+
+.index_section1_texte{
+	color: white;
+	font-size: 250%;
+}
+
+.index_section1_texte > div{
+	position:absolute;
+	background: rgba(27, 188, 155, 0.4);
+    padding:10px;
+}
+
+.non_soulignement:hover{
+	text-decoration: none;
+}
+
+.index_section1_texte #Apprendre{
+	margin-top: 170px;
+}
+
+.index_section1_texte #Accompagner{
+	margin-top: 270px;
+}
+
+.index_section1_texte #Developper{
+	margin-top: 370px;
 }
 
 /* Page principale - Section2 */
