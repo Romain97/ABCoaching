@@ -2,23 +2,24 @@ body {
 	background-color: #c7c2c2;
 }
 
-.row_contact {
-	margin-top: 70px;
+.contact {
+	margin-top: 50px;
 }
 
-.row_contact .formulaire{
+.contact .formulaire{
 	margin-bottom: 50px;
 }
 
-.row_contact .formulaire h1{
+.contact .formulaire h1{
+	width: 300%;
 	margin-left: -60px;
 }
 
-.row_contact .formulaire .form-group{
+.contact .formulaire .form-group{
 	margin-left:-60px;
 	width:300%;
 }
 
-.row_contact .maps{
+.contact .maps{
 	padding-top: 150px;
 }

@@ -45,6 +45,7 @@
         <a class="non_soulignement" href="./ateliers.php"> Développer</a>
         </div>
       </div>
+      <div class="index_section1_photo"></div>     
     </div>
 
 
