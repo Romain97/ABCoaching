@@ -19,6 +19,9 @@
       include("header.php")
     ?>
 
+    <div class="contact_photo_section1">
+    </div>
+
     <div class="row contact">
       <!--Bloc contact-->
       <div class="contact col-lg-offset-1 col-lg-5 col-md-offset-1 col-md-5 col-sm-12 col-xs-12">

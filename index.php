@@ -56,8 +56,18 @@
         </div>
         <div class="biographie col-lg-4 col-md-4 col-sm-12 col-xs-12">
           <h1>Annie Bearez</h1>
-          <p>Quam ob rem id primum videamus, si placet, quatenus amor in amicitia progredi debeat. Numne, si Coriolanus habuit amicos, ferre contra patriam arma illi cum Coriolano debuerunt? num Vecellinum amici regnum adpetentem, num Maelium debuerunt iuvare?
-          Illud tamen clausos vehementer angebat quod captis navigiis, quae frumenta vehebant per flumen, Isauri quidem alimentorum copiis adfluebant, ipsi vero solitarum rerum cibos.</p>
+          <p><br>Le souhait d'évoluer, 
+            une envie de "mieux",
+            une perte de motivation,
+            des difficultés personnelles,
+            le sentiment d'être débordé,
+            un manque de confiance en soi,
+            une décision délicate à prendre,
+            des bonnes résolutions à garantir...</br>
+            Le coaching vous aide !
+            <br>Le coaching est un moyen efficace et rapide d'atteindre votre objectif, 
+            qu'il soit professionnel, personnel, ou bien familial.</br>          
+          </p>
         </div>
       </div>
     </div>
