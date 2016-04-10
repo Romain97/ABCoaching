@@ -6,7 +6,17 @@ body {
 
 /* Page principale - Section1 */
 .index_section1{
-	height: 45em;
+	height: 750px;
+	position: relative;
+}
+
+.index_section1_photo{
+	position:absolute;
+	top: 0;
+	left: 0;
+	z-index: -1;
+	width: 100%;
+	height: 100%;
 	background: url("../images/green-692079_ABC1.jpg") no-repeat center center fixed;
 	-webkit-background-size:cover;
 		moz-background-size:cover;
@@ -43,6 +53,11 @@ body {
 
 /* Page principale - Section2 */
 
+.index_section2_presentation{
+	position: relative;
+	color: #FFFFFF;
+	background-color: #1BBC9B;
+}
 .index_section2_presentation .biographie
 {
 	padding-top:50px;
@@ -52,17 +67,13 @@ body {
 {
 	font-size:20px;
 }
-.index_section2_presentation{
-	color:#FFFFFF;
-	background-color:#1BBC9B;
-}
 
 /* Page principale - Section3 */
 
 .index_section3_activites{
+	position: relative;
     color: black;
     text-align: center; 
-    font-family: arial, monospace;
     font-size: 15px;
 	padding-top:50px;
 	background-color: #f8f8f8;
@@ -91,6 +102,7 @@ body {
 /* Page principale - Section4 */
 
 .index_section4_blog {
+	position: relative;
 	padding: 30px;
 	color:#FFFFFF;
 	background-color:#1BBC9B;

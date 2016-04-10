@@ -1,5 +1,5 @@
 <div class="row">
-  <header class="col-md-12">
+  <header class="col-sm-12">
 		<nav class="navbar navbar-default navbar-fixed-top">
 	  	<div class="container-fluid">
         <!-- Brand and toggle get grouped for better mobile display -->
