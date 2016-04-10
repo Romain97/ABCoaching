@@ -19,6 +19,8 @@
       include("header.php")
     ?>
 
+    <div class="liens_section1_photo"></div>
+
 
     <div class="references_section2">
       <h2>Références :</h2>

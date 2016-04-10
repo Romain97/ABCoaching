@@ -19,6 +19,9 @@
       include("header.php")
     ?>
 
+    <div class="temoignages_photo_section1">
+    </div>
+
     <div class="temoignages_section2">
       <div class="row">
         <!--Formulaire-->
@@ -46,10 +49,16 @@
           </fieldset>
           <button type="submit" class="btn btn-primary">Envoyer</button>
         </form>
+        
         <div class="temoignages col-lg-offset-1 col-lg-5 col-lg-offset-1 col-md-offset-1 col-md-5 col-md-offset-1 col-sm-12 col-xs-12">
-          <p><strong>Michel DURAND, DRH, RTE</strong></p>
-          <p><em>«  Etiam metus risus, vestibulum sed sollicitudin at, vulputate non turpis. Quisque sollicitudin id odio et ullamcorper. Suspendisse ut diam lobortis, blandit orci non, rutrum dui. Morbi commodo tortor posuere consequat ultrices. Proin vulputate mi sed tortor tempor pharetra. Vestibulum tristique consequat ullamcorper. Donec posuere scelerisque nunc, non imperdiet urna tincidunt a.
-          Curabitur molestie augue ut placerat pharetra. Ut elementum nunc justo, a dictum nunc venenatis a. Proin posuere mattis augue, id pretium orci luctus non. Aliquam at pellentesque eros. Quisque luctus urna sed dolor imperdiet tempus. Quisque felis arcu, laoreet non mollis at, dictum a risus. Vestibulum vitae vehicula sem, ut pulvinar diam. Aenean scelerisque urna in auctor placerat. Maecenas eget dui justo. Pellentesque dui tellus, rutrum vel risus at, ultricies condimentum magna. Morbi mattis dolor massa, ac egestas nibh tristique nec. Phasellus non congue felis. Sed suscipit rhoncus augue eget egestas. »</em></p>
+          <p><strong>Corinne (lundi 14 mai 2012)</strong></p>
+          <p><em>« J'ai connu Annie dans ma formation de plongeuse. Vu mon niveau maintenant, ce fut une belle réussite. Aussi, c'est sans peine que j'imagine cette belle personne en coach ! Vous avez fait le bon choix. »</em>
+          </p>
+
+          <p><strong>Sabine (vendredi 11 mai 2012)</strong></p>
+          <p><em>« Annie a une capacité d'écoute exemplaire, sans parler de sa personnalité discrète mais perspicace, sa gentillesse, son professionnalisme...
+          Concernant son savoir-faire et ses compétences, je compte bien les tester mais je n'ai aucun doute. »</em>
+          </p>
         </div>
       </div>
 
