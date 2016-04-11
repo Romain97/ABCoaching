@@ -92,7 +92,7 @@
               </div>
               <div class="atelier_photo col-lg-4 col-md-4 col-sm-12 col-xs-12"> 
                 <a href="./ateliers.php"> 
-                  <img src="images/atelier_test1.jpg" alt="" title="" class="img-responsive"> 
+                  <img src="images/ateliers_test1.jpg" alt="" title="" class="img-responsive"> 
                 </a> 
                 <h3>Ateliers</h3>Co-développement</br>En demi-journée par petit groupe
               </div>
