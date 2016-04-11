@@ -23,7 +23,7 @@
 
 
     <div class="references_section2">
-      <h2>Références :</h2>
+      <h2><u>Références</u></h2>
       <div class="liste_logos">
       <img src="./images/clic_hurepoix.png">
       <img src="./images/Logo_Charente_Maritime.png">

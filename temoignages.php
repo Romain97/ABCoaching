@@ -24,9 +24,21 @@
 
     <div class="temoignages_section2">
       <div class="row">
+        <div class="temoignages col-lg-offset-1 col-lg-5 col-lg-offset-1 col-md-offset-1 col-md-5 col-md-offset-1 col-sm-12 col-xs-12">
+          <img src="images/1460407704_quote.png" class="img-responsive img-quote"></img>
+          <p><strong>Corinne (lundi 14 mai 2012)</strong></p>
+          <p><em>« J'ai connu Annie dans ma formation de plongeuse. Vu mon niveau maintenant, ce fut une belle réussite. Aussi, c'est sans peine que j'imagine cette belle personne en coach ! Vous avez fait le bon choix. »</em>
+          </p>
+          <br></br>
+          <p><strong>Sabine (vendredi 11 mai 2012)</strong></p>
+          <p><em>« Annie a une capacité d'écoute exemplaire, sans parler de sa personnalité discrète mais perspicace, sa gentillesse, son professionnalisme...
+          Concernant son savoir-faire et ses compétences, je compte bien les tester mais je n'ai aucun doute. »</em>
+          </p>
+        </div>
+
         <!--Formulaire-->
         <form class="formulaire col-lg-offset-1 col-lg-4 col-md-offset-1 col-md-5 col-sm-12 col-xs-12">
-          <h1>Formulaire de témoignage :</h1>
+          <h2>Formulaire de témoignage</h2>
           <div class="form-group">
             <label for="Input_nom"></label>
             <input type="text" class="form-control" id="Input_nom" placeholder="Nom, prénom">
@@ -47,19 +59,9 @@
             <label for="Input_texte"></label>
             <textarea class="form-control" id="Input_texte" rows="3" placeholder="Mon message"></textarea>
           </fieldset>
-          <button type="submit" class="btn btn-primary">Envoyer</button>
+          <button type="submit" class="btn btn-primary pull-right">Envoyer</button>
         </form>
         
-        <div class="temoignages col-lg-offset-1 col-lg-5 col-lg-offset-1 col-md-offset-1 col-md-5 col-md-offset-1 col-sm-12 col-xs-12">
-          <p><strong>Corinne (lundi 14 mai 2012)</strong></p>
-          <p><em>« J'ai connu Annie dans ma formation de plongeuse. Vu mon niveau maintenant, ce fut une belle réussite. Aussi, c'est sans peine que j'imagine cette belle personne en coach ! Vous avez fait le bon choix. »</em>
-          </p>
-
-          <p><strong>Sabine (vendredi 11 mai 2012)</strong></p>
-          <p><em>« Annie a une capacité d'écoute exemplaire, sans parler de sa personnalité discrète mais perspicace, sa gentillesse, son professionnalisme...
-          Concernant son savoir-faire et ses compétences, je compte bien les tester mais je n'ai aucun doute. »</em>
-          </p>
-        </div>
       </div>
 
 

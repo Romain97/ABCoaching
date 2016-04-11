@@ -22,7 +22,7 @@
     <div class="liens_section1_photo"></div>
 
     <div class="liens_section2">
-      <h2>Je vous invite également à consulter les liens suivants :</h2>
+      <h2><u>Je vous invite également à consulter les liens suivants...</u></h2>
       <ul>
         <li><a href="http://www.emccfrance.org/fr/Presentation-401.html">EMCC Association Européenne de coaching, coaching solidaire</a></li>
         <li><a href="http://www.jobetcie.org/">JOB&amp;Cie Association pour le retour à l'emploi</a></li>
