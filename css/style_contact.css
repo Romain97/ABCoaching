@@ -6,18 +6,10 @@ body {
 .contact_photo_section1{
 	width:100%;
 	height:15em;
-	color:#19B5FE;
-	background: url("../images/picjumbo.com_P1010617.jpg") no-repeat center -220px;
 	-webkit-background-size:cover;
 		moz-background-size:cover;
 		  o-background-size:cover;
 			background-size:cover;
-}
-
-
-
-.contact {
-	margin-top: 50px;
 }
 
 .contact .formulaire{

@@ -4,15 +4,19 @@
 
 nav li{
 	padding: 0 18px 0 0;
-	display: center;
 }
 
 .nautile{
 	height: 170%;
 	margin-left: -5px;
-	margin-top: -5px;
+	margin-top: -7px;
 }
 
 .linked_in img{
 	height: 20px;
+}
+
+@media screen and (max-width: 1033px){
+  nav li{
+	padding: 0 3px 0 0;
 }

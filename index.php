@@ -52,7 +52,7 @@
     <div class="index_section2_presentation">
       <div class="row">
         <div class="col-lg-offset-1 col-lg-5 col-md-offset-1 col-md-5 col-sm-offset-2 col-sm-8 col-sm-offset-2 col-xs-offset-2 col-xs-8 col-xs-offset-2">
-          <img src="images/photo2annie.png" class="img-responsive">
+          <img src="images/photo2annie.png" alt ="Annie Bearez" class="img-responsive">
         </div>
         <div class="biographie col-lg-4 col-md-4 col-sm-12 col-xs-12">
           <h1>Annie Bearez</h1>
@@ -63,10 +63,10 @@
             le sentiment d'être débordé,
             un manque de confiance en soi,
             une décision délicate à prendre,
-            des bonnes résolutions à garantir...</br>
+            des bonnes résolutions à garantir...<br>
             Le coaching vous aide !
             <br>Le coaching est un moyen efficace et rapide d'atteindre votre objectif, 
-            qu'il soit professionnel, personnel, ou bien familial.</br>          
+            qu'il soit professionnel, personnel, ou bien familial.<br>
           </p>
         </div>
       </div>
@@ -94,7 +94,7 @@
                 <a href="./ateliers.php"> 
                   <img src="images/ateliers_test1.jpg" alt="" title="" class="img-responsive"> 
                 </a> 
-                <h3>Ateliers</h3>Co-développement</br>En demi-journée par petit groupe
+                <h3>Ateliers</h3>Co-développement<br>En demi-journée par petit groupe
               </div>
 
           </div>
@@ -118,7 +118,7 @@
           </div>
         </div>
       </div>
-    </div>
+  
   <?php
     include("footer.php")
   ?>
