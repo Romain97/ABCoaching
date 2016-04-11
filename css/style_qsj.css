@@ -5,9 +5,9 @@ body {
 /* QSJ - Section1 */
 .qui_suis_je_section1_photo{
 	width:100%;
-	height:50em;
+	height:15em;
 	color:#19B5FE;
-	background: url("../images/photo1_ok.jpg") no-repeat center center fixed;
+	background: url("../images/DSC03779.jpg") no-repeat center -276px;
 	-webkit-background-size:cover;
 		moz-background-size:cover;
 		  o-background-size:cover;
@@ -22,5 +22,6 @@ body {
 }
 
 .qui_suis_je_section2 img{
-	padding-top: 150px;
+	padding-top: 100px;
+	padding-bottom: 30px;
 }

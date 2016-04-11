@@ -1,7 +1,23 @@
-.row{
-	margin:50px;
+body {
+	background-color: #f8f8f8;
 }
 
+.temoignages_photo_section1{
+	width: 100%;
+	height: 15em;
+	color: #19B5FE;
+	background: url("../images/2015-09-14-roman-003.jpg") no-repeat center center;
+	-webkit-background-size:cover;
+		moz-background-size:cover;
+		  o-background-size:cover;
+			background-size:cover;
+}
+
+.temoignages_section2 form{
+	margin-top: 50px;
+	padding-bottom: 80px;
+} 
+
 .temoignages{
-	margin-top:30px;
+	margin-top:90px;
 }

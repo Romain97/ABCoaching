@@ -2,23 +2,38 @@ body {
 	background-color: #c7c2c2;
 }
 
-.row_contact {
-	margin-top: 70px;
+/* Contact_contact_photo - Section1 */
+.contact_photo_section1{
+	width:100%;
+	height:15em;
+	color:#19B5FE;
+	background: url("../images/picjumbo.com_P1010617.jpg") no-repeat center -220px;
+	-webkit-background-size:cover;
+		moz-background-size:cover;
+		  o-background-size:cover;
+			background-size:cover;
 }
 
-.row_contact .formulaire{
+
+
+.contact {
+	margin-top: 50px;
+}
+
+.contact .formulaire{
 	margin-bottom: 50px;
 }
 
-.row_contact .formulaire h1{
+.contact .formulaire h1{
+	width: 300%;
 	margin-left: -60px;
 }
 
-.row_contact .formulaire .form-group{
+.contact .formulaire .form-group{
 	margin-left:-60px;
 	width:300%;
 }
 
-.row_contact .maps{
+.contact .maps{
 	padding-top: 150px;
 }

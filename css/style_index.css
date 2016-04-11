@@ -5,55 +5,59 @@ body {
 }
 
 /* Page principale - Section1 */
-.index_section1_texte{
-	position:absolute;
-	color: white;
-	font-size: 250%;
-    font-family: arial;
-	
-}
-
-.index_section1_texte > div{
-	position:absolute;
-}
-
-
-.non_soulignement:hover{
-	text-decoration: none;
-
-}
-
-
-.index_section1_texte #Apprendre{
-	margin-top: 170px;
-    	background: rgba(27, 188, 155, 0.4);
-    	padding:10px;
-}
-
-.index_section1_texte #Accompagner{
-	margin-top: 270px;
-    background: rgba(27, 188, 155, 0.4);
-    padding:10px;
-}
-
-.index_section1_texte #Developper{
-	margin-top: 370px;
-    background: rgba(27, 188, 155, 0.4);
-    padding:10px;
+.index_section1{
+	height: 750px;
+	position: relative;
 }
 
 .index_section1_photo{
-	width:100%;
-	height:49em;
+	position:absolute;
+	top: 0;
+	left: 0;
+	z-index: -1;
+	width: 100%;
+	height: 100%;
 	background: url("../images/green-692079_ABC1.jpg") no-repeat center center fixed;
 	-webkit-background-size:cover;
 		moz-background-size:cover;
 		  o-background-size:cover;
-			background-size:cover;
+			background-size:cover;	
+}
+
+.index_section1_texte{
+	color: white;
+	font-size: 250%;
+}
+
+.index_section1_texte > div{
+	position:absolute;
+	background: rgba(27, 188, 155, 0.4);
+    padding:10px;
+}
+
+.non_soulignement:hover{
+	text-decoration: none;
+}
+
+.index_section1_texte #Apprendre{
+	margin-top: 170px;
+}
+
+.index_section1_texte #Accompagner{
+	margin-top: 270px;
+}
+
+.index_section1_texte #Developper{
+	margin-top: 370px;
 }
 
 /* Page principale - Section2 */
 
+.index_section2_presentation{
+	position: relative;
+	color: #FFFFFF;
+	background-color: #1BBC9B;
+}
 .index_section2_presentation .biographie
 {
 	padding-top:50px;
@@ -63,18 +67,15 @@ body {
 {
 	font-size:20px;
 }
-.index_section2_presentation{
-	color:#FFFFFF;
-	background-color:#1BBC9B;
-}
 
 /* Page principale - Section3 */
 
 .index_section3_activites{
+	position: relative;
     color: black;
     text-align: center; 
     font-family: arial, monospace;
-    font-size: 15px;
+    font-size: 17px;
 	padding-top:50px;
 	background-color: #f8f8f8;
 }
@@ -85,8 +86,8 @@ body {
 	min-height:350px;
 }
 
-.index_section3_activites .row p{
-	padding: 20px;
+.index_section3_activites .row h2{
+	padding-bottom: 40px;
 }
 
 @media screen and (max-width: 640px) {
@@ -102,6 +103,7 @@ body {
 /* Page principale - Section4 */
 
 .index_section4_blog {
+	position: relative;
 	padding: 30px;
 	color:#FFFFFF;
 	background-color:#1BBC9B;
