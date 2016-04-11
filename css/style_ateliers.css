@@ -1,19 +1,18 @@
-body {
-	background-color: #c7c2c2;
-}
+.section2 {
+	background-color: #1BBC9B;
 
-.prestations_section1_photo{
-	width:100%;
-	height:45em;
-	color:#19B5FE;
-	background: url("../images/photo1_ok.jpg") no-repeat center center fixed;
-	-webkit-background-size:cover;
-		moz-background-size:cover;
-		  o-background-size:cover;
-			background-size:cover;
 }
-
-.prestations_section2{
-	margin:50px;
+.section3 {
+	background-color: #1BBC9B;
+}
+.margin {
+	margin-top: 50px;
+}
+.bleu {
+	background-color: #1BBC9B;
+}
+.img-ateliers {
 	
+	width: 100%;
+  margin-top: 50px;
 }

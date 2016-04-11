@@ -1,13 +1,9 @@
-<!DOCTYPE html>
-<html lang="fr">
-	<head>
+
 		<script type="text/javascript" src="./js/bootstrap.js"></script>
 		<script type="text/javascript" src="./js/script.js"></script>
 		<link type="text/css" rel="stylesheet" href="./css/bootstrap.css">
 		<link type="text/css" rel="stylesheet" href="./css/footer.css">
-	</head>
 	
-	<body>
 			<div class="row">
 		<div class="footer-main">
 			<div class=" col-xs-3 col-sm-3 col-md-3 col-lg-3 footer-section left">
@@ -35,5 +31,4 @@
 			</div>
 		</div>
 			</div>									
-	</body>
-</html>   
+	
