@@ -14,17 +14,8 @@
   margin-bottom: 1px;
 }
 
-<<<<<<< HEAD
-
-.right
-{
-	text-align:right;
-	color: black;
-   	float:right;
-=======
 .footer_right {
   text-align: right;
->>>>>>> 3a713654f1fd82a7f991ed0855c81a19be12bb85
 }
 
 .footer_right .liens a {
