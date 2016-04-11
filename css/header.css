@@ -17,6 +17,8 @@ nav li{
 }
 
 @media screen and (max-width: 1033px){
-  nav li{
-	padding: 0 3px 0 0;
+
+	.nav > li > a {
+		padding : 15px 0px;
+	}
 }
