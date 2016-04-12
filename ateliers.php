@@ -19,8 +19,8 @@
       include("header.php")
     ?>
 
-     <div class="row">
-      <div class="col-sm-offset-1 col-sm-6 col-md-6 section2">
+    <div class="row">
+      <div class="ateliers_section1_texte col-lg-offset-1 col-lg-6 col-md-offset-1 col-md-6 col-sm-offset-1 col-sm-6 col-xs-offset-1 col-xs-6">
         <h1>ATELIERS</h1>
           <p> Les ateliers s'effectuent sur une demi-journée, en petit groupe de 8/10 personnes</p>
           <h4>Mieux se connaitre pour mieux communiquer</h4>
@@ -38,16 +38,13 @@
             <li> un atelier par mois </li>
             <li> augmenter sa conscience de soi par le corps </li>
             <li> apprendre à gérer ses émotions</li>
-          </ul>          
+          </ul>        
       </div>
-      <div class=" col-sm-5 col-md-5 section2_photo">
-        <div>
-          <img class="img-ateliers" src="./images/ateliers_test1.jpg">
-        </div>
+      <div class="ateliers_section2_photo col-lg-4 col-md-4 hidden-sm hidden-xs">
+          <img class="img-coaching" src="./images/ateliers_test1.jpg">
       </div>
     </div>
 
-    
   <?php
     include("footer.php")
   ?>
