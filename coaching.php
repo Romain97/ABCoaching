@@ -9,7 +9,7 @@
 
     <link type="text/css" rel="stylesheet" href="./css/style_coaching.css">
 
-    <title>Formations</title>
+    <title>coaching</title>
 
   </head>
   
@@ -18,27 +18,38 @@
     <?php
       include("header.php")
     ?>
-
-
-    <section class="row">
-      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 margin bleu">
-      <div class=" col-sm-5 section2">
-       
-
-      
-          <img class="img-coaching" src="./images/coaching_test1.jpg">
-      
+    <div class="row">
+      <div class="col-sm-offset-1 col-sm-6 col-md-6 section2_textebis">
+        <h1>COACHING</h1>
+          <p> Le coaching s'effectue sur une durée de 6 mois, avec 10 séances de 1h à 1h30</p>
+          <h4>Enjeu de l'accompagnement</h4>
+          <ul>
+            <li> franchir un obstacle </li>
+            <li> atteindre un objectif </li>
+            <li> gagner du temps</li>
+          </ul>
+          <h4>Thématiques de l'accompagnement</h4>
+          <ul>
+            <li> intégrer un nouveau poste en entreprise</li>
+            <li> conforter sa place de manager</li>
+            <li> traverser un deuil</li>
+          </ul>
+          <h4>Résultat l'accompagnement</h4>
+          <ul>
+            <li> la conscience de soi </li>
+            <li> l'autonomie </li>
+            <li> la sérénité </li>
+          </ul>          
       </div>
-          <div class="col-sm-offset-1 col-sm-4 section3">
-         <h1>COACHING</h1>
-           <p>Nulla tincidunt, arcu a ullamcorper  eleifend, eros urna pellentesque magna, ac maximus metus ex pulvinar magna. Integer mattis vel sapien lacinia scelerisque. Cras et tellus nec risus mollis facilisis non vitae turpis. Praesent venenatis suscipit orci sagittis fringilla. Nulla facilisi. Vivamus viverra posuere nunc sit amet vulputate. Mauris quis nulla interdum, faucibus metus in, finibus massa. Curabitur maximus sem tortor, ut rhoncus sapien viverra feugiat. Sed lorem erat, ullamcorper a dui vel, rhoncus sodales quam. Nulla vitae eros ac erat congue elementum.
-      Donec eu auctor arcu. Curabitur pretium pulvinar nulla sit amet placerat. Mauris consequat dui eu leo convallis vestibulum. Etiam sodales enim sit amet neque sodales, sed blandit neque gravida. Suspendisse potenti. Mauris nec porttitor dui, eget faucibus enim. Vivamus eget pulvinar augue, vehicula venenatis magna. Morbi mollis ex leo, cursus elementum massa gravida vitae.</p>
-          </div>
+      <div class=" col-sm-5 col-md-5 section2_photo">
+        <div>
+          <img class="img-coaching" src="./images/coaching_test1.jpg">
+        </div>
+      </div>
     </div>
-    </section>
-  <?php
-    include("footer.php")
-  ?>
+    <?php
+      include("footer.php")
+    ?>
 
   </body>
 

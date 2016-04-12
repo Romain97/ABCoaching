@@ -1,22 +1,21 @@
-.section2 {
-	background-color: #1BBC9B;
+.section2_textebis {
+	background-color: #f8f8f8;
+	margin-top:5%;
+    text-align: left;
+    margin-bottom: 10%;
+}
 
-}
-.section3 {
-	background-color: #1BBC9B;
-    vertical-align: center;
-	margin-top: 25px;
-}
-.margin {
-	margin-top: 50px;
-}
-.bleu {
-	background-color: #1BBC9B;
-}
+
 .img-coaching {
 	
-	width: 80%;
-     margin-top: 50px;
+	width:76%;
+  padding-top: 150px;
+ 	padding-right: 0px;
+}
+body {
+	background-color: #f8f8f8;
 }
 
-
+h1 {
+	font-weight: 600;
+}

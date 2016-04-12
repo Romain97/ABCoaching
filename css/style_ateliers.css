@@ -1,18 +1,18 @@
 .section2 {
-	background-color: #1BBC9B;
-
-}
-.section3 {
-	background-color: #1BBC9B;
-}
-.margin {
-	margin-top: 50px;
-}
-.bleu {
-	background-color: #1BBC9B;
+    background-color: #f8f8f8;
+	margin-top:5%;
+    text-align: left;
+    margin-bottom: 10%;
 }
 .img-ateliers {
 	
-	width: 100%;
-  margin-top: 50px;
+    width:76%;
+    padding-top: 150px;
+ 	padding-right: 0px;
+}
+body {
+	background-color: #f8f8f8;
+}
+h1 {
+	font-weight: 600;
 }
