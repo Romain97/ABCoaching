@@ -53,7 +53,7 @@
           <label for="Input_texte"></label>
           <textarea class="form-control" id="Input_texte" rows="3" placeholder="Mon message"></textarea>
         </fieldset>
-        <button type="submit" class="btn btn-primary">Envoyer</button>
+        <button type="submit" class="btn btn-primary pull-right">Envoyer</button>
       </form>
     </div>
 

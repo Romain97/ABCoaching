@@ -14,28 +14,21 @@ body {
 }
 
 .liens_section2{
-	margin-top: 50px;
-	margin-bottom: 50px;
+	margin-top: 80px;
+	margin-bottom: 110px;
 	text-align: center;
 }
 
 
-h2 { 
+.titre_page_liens{ 
 	font-size: 30px;
 }
 
-h3{
+.liste_liens{
 	font-size: 20px;
 	text-align: center;
+	padding-top: 50px;
 }
-
-h4{
-	font-size: 20px;
-	text-align: center;
-
-}
-
-h5{
-	font-size: 20px;
-	text-align: center;
+h3 a{
+	font-size: 14px;
 }
