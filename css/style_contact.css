@@ -1,32 +1,61 @@
 body {
-	background-color: #c7c2c2;
+	background-color: #f8f8f8;
+	overflow-x: hidden;
 }
 
-/* Contact_contact_photo - Section1 */
-.contact_photo_section1{
-	width:100%;
-	height:15em;
-	background: url("../images/working-690680retouche.jpg") no-repeat center -450px;
-	-webkit-background-size:cover;
-		moz-background-size:cover;
-		  o-background-size:cover;
-			background-size:cover;
+/* Contact - Section1 */
+.contact_section1_photo{
+	width: 100%;
+  height: 15em;
+  background: url("../images/picjumbo.com_P1010617.jpg") no-repeat;
+  margin: 0;
+	background-position: center;
 }
 
-.contact .formulaire{
-	margin-bottom: 50px;
+/* Contact - Section2 */
+.section2_contact{
+	padding: 50px 0 50px 0;
+	text-align: center;
 }
 
-.contact .formulaire h1{
-	width: 300%;
-	margin-left: -60px;
+.section2_contact{
+	font-size: 17px;
 }
 
-.contact .formulaire .form-group{
-	margin-left:-60px;
-	width:300%;
+/* Contact - Section3 */
+.section3_formulaire .formulaire{
+	padding-bottom: 50px;
 }
 
-.contact .maps{
-	padding-top: 150px;
+.section3_formulaire .formulaire h1{
+	text-align: center;
+}
+
+/* Contact - Section 4 Maps */
+.section4_maps{
+	position: relative;
+  padding-bottom: 56.5%; // This is the aspect ratio
+  height: 0;
+  margin: 0 70px 10px 70px;
+}
+.section4_maps iframe{
+	position: absolute;
+  top: 0;
+  left: 0;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+/* Contact - Section 5 */
+.section5_sncf{
+  margin: 20px 0 70px 75px;
+}
+
+.section5_sncf img{
+	height: 40px;
+}
+
+.section5_sncf a{
+	margin-left: 5px;
+	font-size: 17px;
 }
