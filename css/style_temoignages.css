@@ -1,5 +1,6 @@
 body {
 	background-color: #f8f8f8;
+	overflow-x: hidden;
 }
 
 .temoignages_photo_section1{
@@ -19,7 +20,7 @@ body {
 } 
 
 .temoignages{
-	margin-top: 100px;
+	margin-top: 80px;
 	font-size: 20px;
 }
 
@@ -33,7 +34,14 @@ body {
 }
 
 h2{
+	margin-top: 80px;
+	text-align: center;
+
+}
+
+h3{
 	font-size: 24px;
+	margin-top: 10px;
 
 }
 
