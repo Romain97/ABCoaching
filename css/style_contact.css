@@ -31,31 +31,33 @@ body {
 	text-align: center;
 }
 
-/* Contact - Section 4 Maps */
-.section4_maps{
-	position: relative;
-  	padding-bottom: 56.5%; // This is the aspect ratio
-  	height: 0;
-  	margin: 0 70px 10px 70px;
-}
-.section4_maps iframe{
-	position: absolute;
-  	top: 0;
-  	left: 0;
-  	width: 500% !important;
-  	height: 100% !important;
-}
-
-/* Contact - Section 5 */
-.section5_sncf{
+/* Contact - Section 4 */
+.section4_sncf{
   margin: 20px 0 70px 75px;
 }
 
-.section5_sncf img{
+.section4_sncf img{
 	height: 40px;
 }
 
-.section5_sncf a{
+.section4_sncf a{
 	margin-left: 5px;
 	font-size: 17px;
+}
+
+/* Contact - Section 5 Maps */
+.section5_maps{
+	position: relative;
+  	padding-bottom: 56.5%; // This is the aspect ratio
+  	height: 0;
+  	margin: -40px 70px 0 70px;
+}
+
+.section5_maps iframe{
+	position: absolute;
+  	top: 0;
+  	bottom: 20px;
+  	left: 0;
+  	width: 60% !important;
+  	height: 60% !important;
 }
