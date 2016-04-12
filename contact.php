@@ -20,7 +20,7 @@
     ?>
 
     <div class="row contact_photo_section1">
-      <img src="../images/picjumbo.com_P1010617.jpg">
+      <img src="../images/picjumbo.com_P1010617.jpg"></img>
     </div>
 
     <div class="row contact">

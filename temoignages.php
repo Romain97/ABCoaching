@@ -34,6 +34,7 @@
           <p><em>« Annie a une capacité d'écoute exemplaire, sans parler de sa personnalité discrète mais perspicace, sa gentillesse, son professionnalisme...
           Concernant son savoir-faire et ses compétences, je compte bien les tester mais je n'ai aucun doute. »</em>
           </p>
+          <img src="images/1460407704_quote_reverse.png" class="img-responsive img-quote-reverse"></img>
         </div>
 
         <!--Formulaire-->
