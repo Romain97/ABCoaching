@@ -33,7 +33,7 @@ body {
 
 /* Contact - Section 4 */
 .section4_sncf{
-  margin: 20px 0 70px 75px;
+  margin: 10px 0 35px 215px;
 }
 
 .section4_sncf img{
@@ -48,9 +48,9 @@ body {
 /* Contact - Section 5 Maps */
 .section5_maps{
 	position: relative;
-  	padding-bottom: 56.5%; // This is the aspect ratio
+  	padding-bottom: 30%; // This is the aspect ratio
   	height: 0;
-  	margin: -40px 70px 0 70px;
+  	margin: 10px 200px 100px 200px;
 }
 
 .section5_maps iframe{
@@ -58,6 +58,6 @@ body {
   	top: 0;
   	bottom: 20px;
   	left: 0;
-  	width: 60% !important;
-  	height: 60% !important;
+  	width: 100% !important;
+  	height: 100% !important;
 }
