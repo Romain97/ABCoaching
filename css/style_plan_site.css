@@ -1,0 +1,27 @@
+body {
+	background-color: #f8f8f8;
+	overflow-x: hidden;
+}
+
+.titre_plan_site{
+	margin-top: 120px;
+	text-align: center;
+	padding-bottom: 50px;
+}
+
+.plan_site{
+	margin-left: 60px;
+	margin-bottom: 70px;
+}
+
+.formations{
+	margin-left: 14px;
+}
+
+.coaching{
+	margin-left: 14px;
+}
+
+.ateliers{
+	margin-left: 14px;
+}
