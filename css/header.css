@@ -21,13 +21,14 @@ nav li{
 	max-height: 475px;
 }
 
-.container-fluid > .navbar-collapse li{
-	margin-left: 15px;
+@media screen and (max-width: 1040px){
+	.nav > li {
+		padding: 0 1px 0 0;
+	}
 }
 
-
-@media screen and (max-width: 1040px){
-	.nav > li > a {
-		padding : 15px 0px;
+@media screen and (max-width: 768px){
+	.container-fluid > .navbar-collapse li{
+		margin-left: 15px;
 	}
 }

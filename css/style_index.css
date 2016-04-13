@@ -70,6 +70,7 @@ body {
 
 .index_section2_presentation .presentation_biographie{
 	padding: 25px 130px 0 0;
+	margin-left: -20px;
 }
 
 .index_section2_presentation .presentation_biographie p{
@@ -77,8 +78,9 @@ body {
 }
 
 @media screen and (max-width: 992px) {
-	.index_section2_presentation{
+	.index_section2_presentation .presentation_biographie{
 		padding-bottom: 20px;
+		margin-left: 45px;
 	}
 }
 
@@ -91,13 +93,13 @@ body {
   text-align: center;
   font-size: 17px;
 	padding-top: 50px;
-	margin-top: 15px;
 	padding-bottom: 70px;
 	min-height: 350px;
 }
 
-.index_section3_activites h2{
+.index_section3_activites .accroche{
 	padding-bottom: 40px;
+	font-size: 24px;
 }
 
 @media screen and (max-width: 992px) {

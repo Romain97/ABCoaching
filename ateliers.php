@@ -9,7 +9,7 @@
 
     <link type="text/css" rel="stylesheet" href="./css/style_ateliers.css">
 
-    <title>ATELIERS</title>
+    <title>ATELIERS en groupe tous les mois (confiance en soi, détente ...)</title>
 
   </head>
   
@@ -41,7 +41,7 @@
           </ul>        
       </div>
       <div class="ateliers_section2_photo col-lg-4 col-md-4 hidden-sm hidden-xs">
-          <img class="img-coaching" src="./images/ateliers_test1.jpg">
+          <img class="img-coaching" src="./images/ateliers_test1.jpg" alt="Atelier en groupe à Saint Piat">
       </div>
     </div>
 

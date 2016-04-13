@@ -9,7 +9,7 @@
 
 		<link type="text/css" rel="stylesheet" href="./css/style_references.css">
     
-		<title>Références</title>
+		<title>Références coaching ABCoaching</title>
 
 	</head>
 	
@@ -25,15 +25,15 @@
     <div class="references_section2">
       <h2><u>Références</u></h2>
       <div class="liste_logos">
-      <img src="./images/clic_hurepoix.png">
-      <img src="./images/Logo_Charente_Maritime.png">
-      <img src="./images/logo_Demos.png">
-      <img src="./images/logo-efe-home.png">
-      <img src="./images/Logo-faculté_des_métiers-essonne.png">
-      <img src="./images/logo_GKTechniques.png">
-      <img src="./images/logo_IFG.png">
-      <img src="./images/logo-msa.png">
-      <img src="./images/logo_orange_200x200.png">
+      <img src="./images/clic_hurepoix.png" alt="logo clic hurepoix">
+      <img src="./images/Logo_Charente_Maritime.png" alt="logo charente maritime">
+      <img src="./images/logo_Demos.png" alt="logo demos">
+      <img src="./images/logo-efe-home.png" alt="logo efe">
+      <img src="./images/Logo-faculté_des_métiers-essonne.png" alt="logo faculté métier essonne">
+      <img src="./images/logo_GKTechniques.png" alt="logo gktechniques">
+      <img src="./images/logo_IFG.png" alt="logo ifg">
+      <img src="./images/logo-msa.png" alt="logo msa">
+      <img src="./images/logo_orange_200x200.png" alt="logo orange">
       </div>    
     </div>
 

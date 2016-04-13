@@ -9,8 +9,10 @@
 
     <link type="text/css" rel="stylesheet" href="./css/style_index.css">
 
-		<title>ABCoaching</title>
+		<title>Annie Bearez Coaching à St Piat en Eure et Loir (28)</title>
 
+    <meta name="description" content="Site internet d'Annie Bearez sur son activité de coaching et d'accompagnement dans une nouvelle étape de votre vie. Son activité se situe en Eure et Loir et à Paris."/>
+    
     <script>
       $(document).ready(function(){
         if($(window).width() > 700){
@@ -64,14 +66,14 @@
     </div>
 
     <div class="row index_section3_activites">
-      <h2>Je vous propose</h2>
+      <p class="accroche">Je vous propose</p>
       <div class="col-lg-offset-1 col-lg-10 col-md-offset-1 col-md-10 col-sm-offset-1 col-sm-10 col-xs-offset-1 col-xs-10">
         <div class="row">
           <div class="formation_photo col-lg-4 col-md-4 col-sm-12 col-xs-12">
             <a href="./formations.php"> 
               <img src="images/formation_test1.jpg" alt="" title="" class="img-responsive"> 
             </a>
-            <h3>Formations</h3>
+            <h2>Formations</h2>
             <p>Management d'équipe,</p>
             <p>préparation à la retraite, etc.</p>
           </div>
@@ -79,7 +81,7 @@
             <a href="./coaching.php"> 
               <img src="images/coaching_test1.jpg" alt="" title="" class="img-responsive"> 
             </a> 
-            <h3>Coaching</h3>
+            <h2>Coaching</h2>
             <p>Franchir un obstacle,</p>
             <p>atteindre un objectif, etc.</p>
           </div>
@@ -87,7 +89,7 @@
             <a href="./ateliers.php"> 
               <img src="images/ateliers_test1.jpg" alt="" title="" class="img-responsive"> 
             </a> 
-            <h3>Ateliers</h3>
+            <h2>Ateliers</h2>
             <p>Co-développement</p>
             <p>En demi-journée par petit groupe</p>
           </div>

@@ -9,7 +9,7 @@
 
     <link type="text/css" rel="stylesheet" href="./css/style_coaching.css">
 
-    <title>Coaching</title>
+    <title>Prestation COACHING sur 6 mois (franchir obstacle, atteindre objectif ...)</title>
 
   </head>
   
@@ -43,7 +43,7 @@
         </ul>          
       </div>
       <div class="coaching_section2_photo col-lg-4 col-md-4 hidden-sm hidden-xs">
-          <img class="img-coaching" src="./images/coaching_test1.jpg">
+          <img class="img-coaching" src="./images/coaching_test1.jpg" alt="Séance de coaching">
       </div>
     </div>
 

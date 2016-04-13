@@ -9,7 +9,7 @@
 
 		<link type="text/css" rel="stylesheet" href="./css/style_formations.css">
 
-		<title>Formations</title>
+		<title>Formations sur 2 jours (management d'équipe, préparer une nouvelle étape dans votre vie ..)</title>
 
 	</head>
 	
@@ -43,7 +43,7 @@
         </ul>
       </div>
       <div class="formations_section2_photo col-lg-4 col-md-4 hidden-sm hidden-xs">
-          <img class="img-coaching" src="./images/formation_test1.jpg">
+          <img class="img-coaching" src="./images/formation_test1.jpg" alt="Formation nouvelle étape de la vie">
       </div>
     </div>
     
