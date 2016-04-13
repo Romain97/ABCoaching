@@ -2,8 +2,7 @@
 	<div class="container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-        <span class="sr-only">Toggle navigation</span>
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar" aria-expanded="true">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -12,7 +11,7 @@
         <img alt="nautile" src="./images/petit_nautile_bleu.png" class="nautile">
       </a>
     </div>
-    <div class="collapse navbar-collapse">
+    <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
         <li>
           <a href="./index.php">Accueil</a>
@@ -21,7 +20,7 @@
           <a href="./qui_suis_je.php">Qui suis-je ?</a>
         </li>
        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Mes prestations <span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">Mes prestations <span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="./formations.php">Formations</a></li>
             <li><a href="./coaching.php">Coaching</a></li>

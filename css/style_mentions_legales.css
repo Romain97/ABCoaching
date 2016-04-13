@@ -1,16 +1,14 @@
 body {
 	background-color: #f8f8f8;
 	overflow-x: hidden;
-	font-style: Helvetica;
+	font-family: 'PT+Sans',Arial,sans-serif;
 }
 
 .titre_mentions_legales{
-	margin-top: 120px;
 	text-align: center;
-	padding-bottom: 50px;
+	margin: 120px 50px 50px 50px;
 }
 
 .texte_mentions_legales{
-	padding-bottom: 70px;
-
+	margin: 20px 50px 120px 50px;
 }

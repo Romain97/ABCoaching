@@ -3,7 +3,7 @@
     	<head>
 
     	<?php
-    	include("./css/commun.css")
+    	include("commun.php")
     	?>
 
     	<link type="text/css" rel="stylesheet" href="./css/style_plan_site.css">
