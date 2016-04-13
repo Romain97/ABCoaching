@@ -1,17 +1,26 @@
 body {
-	background-color:#f8f8f8; 
-}
-.sectiontext {
 	background-color: #f8f8f8;
-	margin-top: 5%;
-  text-align: left;
-  margin-bottom: 10%;
 }
-.img-formations {
-	width:80%;
-  padding-top: 150px;
- 	padding-right: 0px;
- }
- h1 {
+
+h1 {
 	font-weight: 600;
 }
+
+.row .formations_section1_texte{
+	margin-top: 100px;
+    text-align: left;
+    margin-bottom: 100px;
+}
+
+.formations_section2_photo {
+	height: 100%;
+}
+
+.formations_section2_photo img{
+	width: 100%;
+	padding-top: 150px;
+	-webkit-border-radius: 100px;
+}
+
+
+

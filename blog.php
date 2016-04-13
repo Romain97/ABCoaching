@@ -18,35 +18,62 @@
     <?php
       include("header.php")
     ?>
+ <div class="liens_section1_photo"></div>
 
-   <div class="container">
+ <div class="container">
     <div class="row">
+      <div class="post col-lg-8 col-md-8">
+        <div id="content">
+          <div class="row">
+            <div class="col-lg-12 col-md-12">
+              <aside>
+              <h2>Article 1</h2>
+                <p>Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un peintre anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker.</p>
+              </aside>
+            </div>
+            <div class="col-lg-12 col-md-12">
+              <aside>
+                <h2>Article 2</h2>
+                <p>Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un peintre anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker.</p>
+              </aside>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="sidebar col-lg-4 col-md-4">
+        <div class="bloc_sidebar">
+          <h3>// ARCHIVES</h3>
+          <ul>
+            <li class="archive">
+              <a href="#">
+                <h5>Mars 2016</h5>
+              </a>
+            </li>
+            <li class="archive">
+              <a href="#">
+                <h5>Avril 2016</h5>
+              </a>
+            </li>
+            </li>
+            <li class="archive">
+              <a href="#">
+                <h5>Avril 2016</h5>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+       
+
+       
+        
+
+       
    
-<section class="col-md-6 col-lg-6 section1">
-                 
-           
-      <article>
-        <h1>Titre de l'article 1</h1>
-        <p> Nulla tincidunt, arcu a ullamcorper eleifend, eros urna pellentesque magna, ac maximus metus ex pulvinar magna. Integer mattis vel sapien lacinia scelerisque. Cras et tellus nec risus mollis facilisis non vitae turpis. Praesent venenatis suscipit orci sagittis fringilla. Nulla facilisi. Vivamus viverra posuere nunc sit amet vulputate. Mauris quis nulla interdum, faucibus metus in, finibus massa. Curabitur maximus sem tortor, ut rhoncus sapien viverra feugiat. Sed lorem erat, ullamcorper a dui vel, rhoncus sodales quam. Nulla vitae eros ac erat congue elementum.
-        Donec eu auctor arcu. Curabitur pretium pulvinar nulla sit amet placerat. Mauris consequat dui eu leo convallis vestibulum. Etiam sodales enim sit amet neque sodales, sed blandit neque gravida. Suspendisse potenti. Mauris nec porttitor dui, eget faucibus enim. Vivamus eget pulvinar augue, vehicula venenatis magna. Morbi mollis ex leo, cursus elementum massa gravida vitae.
-         </p>
-      </article>
-          
-                 
-        </section>
-           
-           
-        <section class="col-md-6 col-lg-6 section2">
-            <article>
-        <h1>Titre de l'article 2</h1>
-        <p> Nulla tincidunt, arcu a ullamcorper eleifend, eros urna pellentesque magna, ac maximus metus ex pulvinar magna. Integer mattis vel sapien lacinia scelerisque. Cras et tellus nec risus mollis facilisis non vitae turpis. Praesent venenatis suscipit orci sagittis fringilla. Nulla facilisi. Vivamus viverra posuere nunc sit amet vulputate. Mauris quis nulla interdum, faucibus metus in, finibus massa. Curabitur maximus sem tortor, ut rhoncus sapien viverra feugiat. Sed lorem erat, ullamcorper a dui vel, rhoncus sodales quam. Nulla vitae eros ac erat congue elementum.
-        Donec eu auctor arcu. Curabitur pretium pulvinar nulla sit amet placerat. Mauris consequat dui eu leo convallis vestibulum. Etiam sodales enim sit amet neque sodales, sed blandit neque gravida. Suspendisse potenti. Mauris nec porttitor dui, eget faucibus enim. Vivamus eget pulvinar augue, vehicula venenatis magna. Morbi mollis ex leo, cursus elementum massa gravida vitae.
-         </p>
-      </article>
-          
-        </section>
-     </div>   
-   </div> 
   
   <?php
     include("footer.php")
