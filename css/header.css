@@ -17,6 +17,10 @@ nav li{
 	height: 20px;
 }
 
+.container-fluid > .navbar-collapse{
+	max-height: 475px;
+}
+
 .container-fluid > .navbar-collapse li{
 	margin-left: 15px;
 }
