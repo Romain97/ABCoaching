@@ -45,6 +45,14 @@
       </div>
     </div>
 
+    <div class="row ateliers_section3_planning">
+      <h2><u>Planning des prochains ateliers :</u></h2>
+      <hr>
+      <p>26 Avril 2016 : Lorem ipsum dolor sit amet.</p>
+      <p>14 Mai 2016 : Neque porro quisquam est qui dolorem ipsum.</p>
+
+    </div>
+
   <?php
     include("footer.php")
   ?>
