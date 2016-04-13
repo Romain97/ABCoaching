@@ -28,8 +28,6 @@ h1 {
 	background: url("../images/1460552595_common-calendar-month-glyph.png") no-repeat;
 	background-size: 60px auto;
     background-position: 80px 50px;
-
-
 	margin: 0 125px 25px 125px;
 	border: 2px solid black;
 	text-align: center;
@@ -37,9 +35,6 @@ h1 {
 .ateliers_section3_planning h2{
 	font-size: 30px;
 }
-
-
-
 
 @media screen and (max-width: 1040px) {
 	.ateliers_section3_planning{
