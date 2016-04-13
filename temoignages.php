@@ -24,6 +24,7 @@
 
     <div class="temoignages_section2">
       <div class="row">
+        <h2><u>Témoignages</u></h2>
         <div class="temoignages col-lg-offset-1 col-lg-5 col-lg-offset-1 col-md-offset-1 col-md-5 col-md-offset-1 col-sm-12 col-xs-12">
           <img src="images/1460407704_quote.png" class="img-responsive img-quote"></img>
           <p><strong>Corinne (lundi 14 mai 2012)</strong></p>
@@ -39,7 +40,7 @@
 
         <!--Formulaire-->
         <form class="formulaire col-lg-offset-1 col-lg-4 col-md-offset-1 col-md-5 col-sm-12 col-xs-12">
-          <h2>Formulaire de témoignage</h2>
+          <h3>Votre avis m'intéresse...</h3>
           <div class="form-group">
             <label for="Input_nom"></label>
             <input type="text" class="form-control" id="Input_nom" placeholder="Nom, prénom">

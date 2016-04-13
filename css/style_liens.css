@@ -1,5 +1,6 @@
 body {
 	background-color: #f8f8f8;
+	overflow-x: hidden;
 }
 
 .liens_section1_photo{
@@ -24,11 +25,7 @@ body {
 	font-size: 30px;
 }
 
-.liste_liens{
-	font-size: 20px;
-	text-align: center;
-	padding-top: 50px;
-}
+
 h3 a{
-	font-size: 14px;
+	font-size: 16px;
 }

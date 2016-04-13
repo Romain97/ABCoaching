@@ -16,8 +16,7 @@ nav li{
 	height: 20px;
 }
 
-@media screen and (max-width: 1033px){
-
+@media screen and (max-width: 1040px){
 	.nav > li > a {
 		padding : 15px 0px;
 	}
