@@ -1,7 +1,7 @@
 body {
 	background-color: white;
 	font-family: 'PT+Sans',Arial,sans-serif;
-	overflow-x:hidden;
+	overflow-x: hidden;
 }
 
 /* Page principale - Section1 */
@@ -25,17 +25,16 @@ body {
 }
 
 .index_section1_texte{
-	color: white;
-	font-size: 250%;
+	font-size: 220%;
 }
 
-.index_section1_texte > div{
+.index_section1_texte div{
 	position:absolute;
 	background: rgba(27, 188, 155, 0.4);
     padding:10px;
 }
 
-.non_soulignement:hover{
+.index_section1_texte a:hover{
 	text-decoration: none;
 }
 
@@ -54,50 +53,63 @@ body {
 /* Page principale - Section2 */
 
 .index_section2_presentation{
-	position: relative;
-	color: #FFFFFF;
 	background-color: #1BBC9B;
-}
-.index_section2_presentation .biographie
-{
-	padding-top:50px;
+	color: #FFFFFF;
 }
 
-.index_section2_presentation .biographie p
-{
-	font-size:20px;
+.index_section2_presentation .bloc_photo{
+	height: 450px;
+}
+
+.index_section2_presentation .bloc_photo .presentation_photo{
+	height: 100%;
+	background: url("../images/photo2annie.png") no-repeat;
+	background-size: 400px auto;
+  background-position: 50% 100%;
+}
+
+.index_section2_presentation .presentation_biographie{
+	padding: 25px 130px 0 0;
+}
+
+.index_section2_presentation .presentation_biographie p{
+	font-size: 18px;
+}
+
+@media screen and (max-width: 992px) {
+	.index_section2_presentation{
+		padding-bottom: 20px;
+	}
 }
 
 /* Page principale - Section3 */
 
 .index_section3_activites{
 	position: relative;
-    color: black;
-    text-align: center; 
-    font-family: arial, monospace;
-    font-size: 17px;
-	padding-top:50px;
 	background-color: #f8f8f8;
-}
-
-.index_section3_activites .row{
+  color: black;
+  text-align: center;
+  font-size: 17px;
+	padding-top: 50px;
 	margin-top: 15px;
 	padding-bottom: 70px;
-	min-height:350px;
+	min-height: 350px;
 }
 
-.index_section3_activites .row h2{
+.index_section3_activites h2{
 	padding-bottom: 40px;
 }
 
-@media screen and (max-width: 640px) {
-  .index_section3_activites .row .coaching_photo {
-  	margin-top: 10px;
-  }
-
-  .index_section3_activites .row .atelier_photo {
-  	margin-top: 10px;
-  }
+@media screen and (max-width: 992px) {
+	.index_section3_activites .formation_photo {
+  	height: 70%;
+	}
+	.index_section3_activites .coaching_photo {
+  	margin-top: 40px;
+	}
+	.index_section3_activites .atelier_photo {
+  	margin-top: 40px;
+	}
 }
 
 
@@ -111,17 +123,17 @@ body {
 	min-height:350px;
 }
 
-.index_section4_blog .row .citation{
+.index_section4_blog .citation{
 	font-size:35px;
 	font-style:italic;
-	padding-top:40px; 
+	padding-top:20px; 
 }
 
-.index_section4_blog .row .blog1{
+.index_section4_blog .blog1{
 	font-size:15px;
 }
 
-.index_section4_blog .row .blog1 .c-frame-tl {
+.index_section4_blog .blog1 .c-frame-tl {
   top: 0;
   left: 0;
   position: absolute;
@@ -132,7 +144,7 @@ body {
   border-color: #FFFFFF;
 }
 
-.index_section4_blog .row .blog1 .c-frame-br {
+.index_section4_blog .blog1 .c-frame-br {
   bottom: 0;
   right: 0;
   position: absolute;
@@ -141,4 +153,11 @@ body {
   border-width: 3px;
   border-style: none solid solid none;
   border-color: #FFFFFF;
+}
+
+@media screen and (max-width: 1000px) {
+	.index_section4_blog .citation{
+		padding-top: 20px;
+		padding-bottom: 50px; 
+	}
 }
