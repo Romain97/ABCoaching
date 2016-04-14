@@ -31,11 +31,13 @@ body {
 }
 
 /* Contact - Section3 */
+
 .section3_formulaire .formulaire{
 	padding-bottom: 50px;
 }
 
 /* Contact - Section 4 */
+
 .section4_sncf{
   margin: 10px 0 35px 215px;
 }
@@ -50,6 +52,7 @@ body {
 }
 
 /* Contact - Section 5 Maps */
+
 .section5_maps{
 	position: relative;
   	padding-bottom: 30%; // This is the aspect ratio

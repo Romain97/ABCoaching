@@ -7,7 +7,7 @@
       include("commun.php")
     ?>
 
-    <link type="text/css" rel="stylesheet" href="./css/style_index.css">
+    <link type="text/css" rel="stylesheet" href="./css/style_ABCoaching.css">
 
 		<title>Annie Bearez Coaching à St Piat en Eure et Loir (28)</title>
 

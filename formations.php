@@ -7,7 +7,7 @@
       include("commun.php")
     ?>
 
-		<link type="text/css" rel="stylesheet" href="./css/style_formations.css">
+		<link type="text/css" rel="stylesheet" href="./css/style_ABCoaching.css">
 
 		<title>Formations sur 2 jours (management d'équipe, préparer une nouvelle étape dans votre vie ..)</title>
 

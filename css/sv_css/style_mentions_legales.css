@@ -1,14 +1,16 @@
+/* Mentions légales */
+
 body {
 	background-color: #f8f8f8;
 	overflow-x: hidden;
 	font-family: 'PT+Sans',Arial,sans-serif;
 }
 
-.titre_mentions_legales{
+.mentions_legales_titre{
 	text-align: center;
 	margin: 120px 50px 50px 50px;
 }
 
-.texte_mentions_legales{
+.mentions_legales_texte{
 	margin: 20px 50px 120px 50px;
 }

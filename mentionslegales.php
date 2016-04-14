@@ -6,7 +6,7 @@
     include("commun.php")
   ?>
 
-  <link type="text/css" rel="stylesheet" href="./css/style_mentions_legales.css">
+  <link type="text/css" rel="stylesheet" href="./css/style_ABCoaching.css">
     
   <title>Mentions Légales</title>
 
@@ -18,11 +18,11 @@
 	include("header.php")
 	?>
 
-	<div class="titre_mentions_legales">
+	<div class="mentions_legales_titre">
 		<h2><u>Mentions légales</u></h2>
 	</div>
 
-	<div class="texte_mentions_legales">
+	<div class="mentions_legales_texte">
     <p>
       <h3>1. Présentation du site.</h3>
       <p>En vertu de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, il est précisé aux utilisateurs du site <a href="http://www.abcoaching28.com/" title="Mme Annie BEAREZ - www.abcoaching28.com">www.abcoaching28.com</a> l'identité des différents intervenants dans le cadre de sa réalisation et de son suivi :</p>

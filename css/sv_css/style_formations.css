@@ -3,15 +3,19 @@ body {
 	font-family: 'PT+Sans',Arial,sans-serif;
 }
 
-h1 {
+/* Formations - Section1 */
+
+.formations_section1_texte{
+	margin-top: 100px;
+  text-align: left;
+  margin-bottom: 100px;
+}
+
+.formations_section1_texte h1{
 	font-weight: 600;
 }
 
-.row .formations_section1_texte{
-	margin-top: 100px;
-    text-align: left;
-    margin-bottom: 100px;
-}
+/* Formations - Section2 */
 
 .formations_section2_photo {
 	height: 100%;

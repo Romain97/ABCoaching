@@ -7,7 +7,7 @@
       include("commun.php")
     ?>
 
-    <link type="text/css" rel="stylesheet" href="./css/style_ateliers.css">
+    <link type="text/css" rel="stylesheet" href="./css/style_ABCoaching.css">
 
     <title>ATELIERS en groupe tous les mois (confiance en soi, détente ...)</title>
 

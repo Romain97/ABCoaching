@@ -7,7 +7,7 @@
       include("commun.php")
     ?>
 
-    <link type="text/css" rel="stylesheet" href="./css/style_coaching.css">
+    <link type="text/css" rel="stylesheet" href="./css/style_ABCoaching.css">
 
     <title>Prestation COACHING sur 6 mois (franchir obstacle, atteindre objectif ...)</title>
 

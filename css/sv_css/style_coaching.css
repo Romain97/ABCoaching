@@ -3,15 +3,19 @@ body {
 	font-family: 'PT+Sans',Arial,sans-serif;
 }
 
-h1 {
-	font-weight: 600;
-}
+/* Coaching - Section1 */
 
-.row .coaching_section1_texte{
+.coaching_section1_texte{
 	margin-top: 100px;
   text-align: left;
   margin-bottom: 100px;
 }
+
+.coaching_section1_texte h1{
+	font-weight: 600;
+}
+
+/* Coaching - Section2 */
 
 .coaching_section2_photo {
 	height: 100%;

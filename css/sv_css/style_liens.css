@@ -4,6 +4,8 @@ body {
 	font-family: 'PT+Sans',Arial,sans-serif;
 }
 
+/* Liens - Section1 */
+
 .liens_section1_photo{
 	width: 100%;
 	height: 15em;
@@ -15,18 +17,18 @@ body {
 			background-size:cover;
 }
 
+/* Liens - Section2 */
+
 .liens_section2{
 	margin-top: 80px;
 	margin-bottom: 110px;
 	text-align: center;
 }
 
-
-.titre_page_liens{ 
+.liens_section2 .titre_page_liens{ 
 	font-size: 30px;
 }
 
-
-h3 a{
+.liens_section2 .titre_page_liens{
 	font-size: 16px;
 }

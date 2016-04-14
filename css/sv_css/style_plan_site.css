@@ -1,16 +1,18 @@
+/* Plan du site */
+
 body {
 	background-color: #f8f8f8;
 	overflow-x: hidden;
 	font-family: 'PT+Sans',Arial,sans-serif;
 }
 
-.titre_plan_site{
+.plan_site h2{
 	margin-top: 120px;
 	text-align: center;
 	padding-bottom: 50px;
 }
 
-.plan_site{
+.plan_site ul{
 	margin-left: 60px;
 	margin-bottom: 70px;
 }

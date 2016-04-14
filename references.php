@@ -7,7 +7,7 @@
       include("commun.php")
     ?>
 
-		<link type="text/css" rel="stylesheet" href="./css/style_references.css">
+		<link type="text/css" rel="stylesheet" href="./css/style_ABCoaching.css">
     
 		<title>Références coaching ABCoaching</title>
 
@@ -19,11 +19,11 @@
       include("header.php")
     ?>
 
-    <div class="liens_section1_photo"></div>
+    <div class="references_section1_photo"></div>
 
 
     <div class="references_section2">
-      <h2><u>Références</u></h2>
+      <h1><u>Références</u></h1>
       <div class="liste_logos">
       <img src="./images/clic_hurepoix.png" alt="logo clic hurepoix">
       <img src="./images/Logo_Charente_Maritime.png" alt="logo charente maritime">
