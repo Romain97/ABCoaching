@@ -21,24 +21,14 @@
 
     <div class="row">
       <div class="ateliers_section1_texte col-lg-offset-1 col-lg-6 col-md-offset-1 col-md-6 col-sm-offset-1 col-sm-6 col-xs-offset-1 col-xs-6">
-        <h1>ATELIERS</h1>
-          <p> Les ateliers s'effectuent sur une demi-journée, en petit groupe de 8/10 personnes</p>
-          <h4>Mieux se connaitre pour mieux communiquer</h4>
-          <ul>
-            <li> un atelier par mois </li>
-            <li> chaque mois, un nouveau thème</li>
-          </ul>
-          <h4>Confiance en soi, assertivité</h4>
-          <ul>
-            <li> un atelier par mois</li>
-            <li> conscience, estime de soi et de l'autre</li>
-          </ul>
-          <h4>Détente et relaxation</h4>
-          <ul>
-            <li> un atelier par mois </li>
-            <li> augmenter sa conscience de soi par le corps </li>
-            <li> apprendre à gérer ses émotions</li>
-          </ul>        
+        <h1>ATELIERS</h1><br>
+        <p>Mieux se connaitre, c’est l’enjeu de toute une vie.</p>
+        <p>Nous avons tous un vécu différent, qui influence notre façon de nous comporter, de ressentir, <br>d’agir, et qui conditionne notre relation aux autres.</p>
+        <p>Ces ateliers fournissent quelques axes de réflexion et d’actions possibles pour mieux <br>nous connaitre et mieux vivre avec les autres.</p>
+        <p>Chaque atelier propose un angle d’approche nouveau.</p>
+        <p>Tous les ateliers sont indépendants les uns des autres : le groupe est OUVERT.</p>
+        <p>Le nombre de participants est limité (10 maxi) afin de garantir un travail personnel pour chacun.</p>
+        <p>1 atelier par mois, souvent le dernier jeudi après midi du mois</p>      
       </div>
       <div class="ateliers_section2_photo col-lg-4 col-md-4 hidden-sm hidden-xs">
           <img class="img-coaching" src="./images/ateliers_test1.jpg" alt="Atelier en groupe à Saint Piat">

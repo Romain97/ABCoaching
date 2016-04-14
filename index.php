@@ -57,11 +57,21 @@
         </div>
       </div>
       <div class="presentation_biographie col-lg-5 col-md-5 col-sm-offset-1 col-sm-10 col-xs-offset-1 col-xs-10">
-        <h1>Annie Bearez</h1>
-        <hr>
-        <p>Le souhait d'évoluer, une envie de "mieux", une perte de motivation, des difficultés personnelles, le sentiment d'être débordé, un manque de confiance en soi, une décision délicate à prendre, des bonnes résolutions à garantir...
-        <p>Le coaching vous aide !</p>
-        <p>Le coaching est un moyen efficace et rapide d'atteindre votre objectif, qu'il soit professionnel, personnel, ou bien familial.</p>
+        <p>Comme vous sans doute, j’aime apprendre. Apprendre  aux autres – apprendre des autres.C’est un plaisir sans cesse renouvelé, c’est le sens de ma vie. D’où cette envie d’enseigner et de me tourner vers la formation.<br><br>
+        Mon expérience d’animation de groupe m’a conduite tout naturellement vers l’accompagnement individuel.<br><br>
+        Ma spécialité  ?  ce sont les jeunes :<br>
+         - Jeune embauché : prise de poste<br>
+         - Jeune maman (même à 40 ans), jeune papa<br>
+         - Jeune sénior : préparation à la retraite, sens de la vie<br>
+         - Jeune entrepreneur : construire un projet professionnel<br>
+         - Nouvelle identité : promotion, divorce, veuvage, ...<br><br>
+        Cette « conscience d’être soi » génère implicitement un mieux-être avec l’autre, ce qui améliore le relationnel, et atténue les conflits.<br><br>
+        Mes clients disent qu’ils apprécient ma bonne humeur et mon coté pragmatique.<br><br>
+        Je suis passionnée par la plongée sous marine et les longues courses à pieds, pour l’équilibre du corps, de la pensée, et des sensations.<br><br>
+        Et vous  : quel est votre hobby ,  votre bulle d’oxygène  ?<br><br>
+        à très vite.<br>
+        <h1>Annie Bearez</h1></p>
+
       </div>
     </div>
 
@@ -83,15 +93,16 @@
             </a> 
             <h2>Coaching</h2>
             <p>Franchir un obstacle,</p>
-            <p>atteindre un objectif, etc.</p>
+            <p>atteindre un objectif,</p>
+            <p>gagner du temps, etc.</p>
           </div>
           <div class="atelier_photo col-lg-4 col-md-4 col-sm-12 col-xs-12"> 
             <a href="./ateliers.php"> 
               <img src="images/ateliers_test1.jpg" alt="" title="" class="img-responsive"> 
             </a> 
             <h2>Ateliers</h2>
-            <p>Co-développement</p>
-            <p>En demi-journée par petit groupe</p>
+            <p>Développement personnel</p>
+            <p>Une demi-journée en petit groupe</p>
           </div>
         </div>
       </div>
@@ -104,11 +115,12 @@
         <div class="c-frame-tr"></div>
         <div class="c-frame-br"></div>
         <div class="c-frame-bl"></div>
-          <h2>Titre de l'article 1</h2>
-          <p> Nulla tincidunt, arcu a ullamcorper eleifend, eros urna pellentesque magna, ac maximus metus ex pulvinar magna. Integer mattis vel sapien lacinia scelerisque. Cras et tellus nec risus mollis facilisis non vitae turpis...</p>
+          <h2>Les réseaux sociaux : une désynchronisation temporelle et spatiale ?</h2>
+          <p>Dans le sujet proposé « réseaux sociaux et thérapie », j’interroge l’impact d’une « identité sociale » potentiellement accessible via internet, par les thérapeutes sur leurs clients et inversement.<br>
+          L’AT a-t-elle un champ « sociologie » ? ...<a href="#"> Lire la suite</a></p>
           <p></p>
           <h2>Titre de l'article 2</h2>
-          <p> Nulla tincidunt, arcu a ullamcorper eleifend, eros urna pellentesque magna, ac maximus metus ex pulvinar magna. Integer mattis vel sapien lacinia scelerisque. Cras et tellus nec risus mollis facilisis non vitae turpis. Praesent venenatis suscipit orci sagittis fringilla. Nulla facilisi...</p>
+          <p> Nulla tincidunt, arcu a ullamcorper eleifend, eros urna pellentesque magna, ac maximus metus ex pulvinar magna. Integer mattis vel sapien lacinia scelerisque. Cras et tellus nec risus mollis facilisis non vitae turpis. Praesent venenatis suscipit orci sagittis fringilla. Nulla facilisi ...<a href="#"> Lire la suite</a></p>
         </div>
       </div>
   

@@ -22,25 +22,21 @@
     <div class="row">
       <div class="coaching_section1_texte col-lg-offset-1 col-lg-6 col-md-offset-1 col-md-6 col-sm-offset-1 col-sm-6 col-xs-offset-1 col-xs-6">
         <h1>COACHING</h1>
-        <p> Le coaching s'effectue sur une durée de 6 mois, avec 10 séances de 1h à 1h30</p>
-        <h4>Enjeu de l'accompagnement</h4>
+        <h2>Coaching personnel</h2>
         <ul>
           <li>franchir un obstacle</li>
           <li>atteindre un objectif</li>
           <li>gagner du temps</li>
         </ul>
-        <h4>Thématiques de l'accompagnement</h4>
+        <h2>Coaching professionnel</h2>
         <ul>
-          <li>intégrer un nouveau poste en entreprise</li>
+          <li>prise de poste, intégration</li>
           <li>conforter sa place de manager</li>
-          <li>traverser un deuil</li>
+          <li>aide à la décision</li>
+          <li>confiance en soi</li>
+          <li>performance, efficacité</li>
         </ul>
-        <h4>Résultat l'accompagnement</h4>
-        <ul>
-          <li>la conscience de soi</li>
-          <li>l'autonomie</li>
-          <li>la sérénité</li>
-        </ul>          
+        <p>Accompagnement pour les personnes en télétravail, ou qui reprennent<br> une activité professionnelle après un arrêt prolongé.</p>       
       </div>
       <div class="coaching_section2_photo col-lg-4 col-md-4 hidden-sm hidden-xs">
           <img class="img-coaching" src="./images/coaching_test1.jpg" alt="Séance de coaching">
