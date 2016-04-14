@@ -37,7 +37,7 @@ body {
 
 .img-quote-reverse{
 	position: absolute;
-	bottom: -40px; 
+	bottom: -60px; 
 	right: 10px;
 }
 
