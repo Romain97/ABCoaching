@@ -408,56 +408,60 @@ nav li{
 }
 
 /* Contact - Section2 */
-.section2_contact{
+.contact_section2{
 	padding: 60px 0 50px 0;
+	font-size: 17px;
+	height: 800px;
+}
+
+.contact_section2 .contact{
 	text-align: center;
 }
 
-.section2_contact{
+.contact_section2 .contact h1{
+	font-size: 33px;
+}
+
+.sncf img{
+	width: 40px;
+}
+
+.sncf a{
+	margin-left: 5px;
 	font-size: 17px;
 }
 
-.section2_contact h1{
-	font-size: 33px;
+.maps{
+	position: relative;
+  padding-bottom: 30%; // This is the aspect ratio
+}
+
+.maps iframe{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100% !important;
+	height: 200% !important;
 }
 
 /* Contact - Section3 */
 
 .section3_formulaire .formulaire{
-	padding-bottom: 50px;
+	padding: 60px 0 100px 0;
 }
 
-/* Contact - Section 4 */
 
-.section4_sncf{
-  margin: 10px 0 35px 215px;
-}
-
-.section4_sncf img{
-	height: 40px;
-}
-
-.section4_sncf a{
-	margin-left: 5px;
-	font-size: 17px;
-}
-
-/* Contact - Section 5 Maps */
-
-.section5_maps{
-	position: relative;
-  	padding-bottom: 30%; // This is the aspect ratio
-  	height: 0;
-  	margin: 10px 200px 100px 200px;
-}
-
-.section5_maps iframe{
-	position: absolute;
-  	top: 0;
-  	bottom: 20px;
-  	left: 0;
-  	width: 100% !important;
-  	height: 100% !important;
+@media screen and (max-width: 993px){
+	.sncf{
+		margin: 60px 60px 0px 60px;
+	}
+	.maps{
+  	margin: 60px 60px 60px 60px;
+	}
+	.section3_formulaire .formulaire{
+		padding-top: 250px;
+		margin: 60px 60px 0px 60px;
+	}
 }
 
 /*-------------------------------------------------*/
